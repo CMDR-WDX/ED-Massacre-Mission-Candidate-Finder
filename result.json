@@ -1,0 +1,8192 @@
+{
+	"config": {
+		"FilterOnlyRingedSource": true,
+		"MinSourceSystemCount": 3,
+		"MaxOtherDestSystemsForSource": 0,
+		"MaxOtherDestSystemsForSourceAnarchyCount": 0,
+		"MinSourceStationCount": 6,
+		"MaxDistanceInLsForStationToBeConsidered": 1000,
+		"ConsiderGroundBases": false,
+		"ConsiderOdysseySettlements": false
+	},
+	"sortedResult": [
+		{
+			"score": 32.166668,
+			"anarchyFactionName": "Society of NLTT 40378",
+			"systemName": "NLTT 40378",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 31,
+			"sourcingSystems": 6,
+			"rings": 6,
+			"metaSurroundingSystems": [
+				{
+					"id": 4477260122483,
+					"name": "Mandhrithar",
+					"x": 63.625,
+					"y": -31.40625,
+					"z": 67.28125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Fathers of Nontime",
+						"Independent Pilots Consortium",
+						"Mandhrithar Defence Force",
+						"Mandhrithar Interstellar",
+						"Mandhrithar Patrons of Law",
+						"Mandhrithar Services",
+						"Social Mandhrithar for Equality"
+					],
+					"stations": [
+						{
+							"distance": 592.9625,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						}
+					]
+				},
+				{
+					"id": 22966800632712,
+					"name": "Polohod",
+					"x": 73.375,
+					"y": -30.5625,
+					"z": 67.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Raiders of Polohod"
+					],
+					"nonAnarchyFactionNames": [
+						"Confederation of Polohod",
+						"Independent Pilots Consortium",
+						"Monarchy of Polohod",
+						"Party of Yoru",
+						"Polohod Corp.",
+						"Traditional NLTT 40378 First"
+					],
+					"stations": []
+				},
+				{
+					"id": 3893144570227,
+					"name": "Corngari",
+					"x": 66.09375,
+					"y": -27.125,
+					"z": 68.40625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Corngari Crimson Brothers"
+					],
+					"nonAnarchyFactionNames": [
+						"Corngari Autocracy",
+						"Corngari Blue Central Inc",
+						"Corngari Network",
+						"Fathers of Nontime",
+						"Independent Pilots Consortium",
+						"Party of Corngari"
+					],
+					"stations": [
+						{
+							"distance": 951.6926,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 954.25244,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 4408540645747,
+					"name": "Kathans",
+					"x": 75.28125,
+					"y": -26.3125,
+					"z": 64.28125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"13th Legion",
+						"7th Interplanetary Defense Fleet",
+						"Independent Pilots Consortium",
+						"Kathans Conservatives",
+						"Kathans Life Limited",
+						"League of Kathans Regulatory State",
+						"Left Party of Kathans"
+					],
+					"stations": []
+				},
+				{
+					"id": 2931071895923,
+					"name": "Edanditis",
+					"x": 71.65625,
+					"y": -33.6875,
+					"z": 72.3125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 5,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"13th Legion",
+						"Edanditis Defence Party",
+						"Edanditis Incorporated",
+						"Independent Pilots Consortium",
+						"Nationals of Edanditis",
+						"People's Edanditis Liberals",
+						"Unionists of HIP 84315"
+					],
+					"stations": [
+						{
+							"distance": 24.160515,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 40.934254,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 720.89545,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 18263945782721,
+					"name": "Chem",
+					"x": 72.4375,
+					"y": -24.25,
+					"z": 71.75,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Chem Mob"
+					],
+					"nonAnarchyFactionNames": [
+						"7th Interplanetary Defense Fleet",
+						"Chem Holdings",
+						"Independent Pilots Consortium",
+						"Labour Union of Chem",
+						"New Chem Law Party",
+						"United Chem Liberals"
+					],
+					"stations": [
+						{
+							"distance": 454.86963,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 633742529250,
+				"name": "NLTT 40378",
+				"x": 72.3125,
+				"y": -27.1875,
+				"z": 68.8125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 6,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Society of NLTT 40378"
+				],
+				"nonAnarchyFactionNames": [
+					"13th Legion",
+					"7th Interplanetary Defense Fleet",
+					"Democrats of NLTT 40378",
+					"Independent Pilots Consortium",
+					"NLTT 40378 Organisation",
+					"Traditional NLTT 40378 First"
+				],
+				"stations": [
+					{
+						"distance": 33.531628,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 44.79061,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 32.13333,
+			"anarchyFactionName": "HIP 111173 Pirates",
+			"systemName": "HIP 111173",
+			"sourceSystemAnarchyFactionCount": 8,
+			"sourcingFactionsCount": 33,
+			"sourcingSystems": 9,
+			"rings": 12,
+			"metaSurroundingSystems": [
+				{
+					"id": 1732985656034,
+					"name": "Karasiri",
+					"x": -91.1875,
+					"y": -141.4375,
+					"z": 56.34375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Karasiri Blue Crew"
+					],
+					"nonAnarchyFactionNames": [
+						"Alchera Co",
+						"Amicale des Compagnons de l'Espace",
+						"HIP 112494 Purple Legal Org",
+						"Karasiri Blue Power Exchange",
+						"Mortis Incorporated"
+					],
+					"stations": [
+						{
+							"distance": 37.46953,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 319698209131,
+					"name": "HIP 111910",
+					"x": -84.9375,
+					"y": -142.09375,
+					"z": 54.0625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Family of HIP 111910"
+					],
+					"nonAnarchyFactionNames": [
+						"Amicale des Compagnons de l'Espace",
+						"Bureau of Pomotho",
+						"Friends of HIP 111910",
+						"HIP 111910 Monarchy",
+						"HIP 111910 State Co",
+						"Wuluujjusi Republic Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 2007863562978,
+					"name": "Wendigo",
+					"x": -91.09375,
+					"y": -138.8125,
+					"z": 56.34375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Wendigo Purple Brothers"
+					],
+					"nonAnarchyFactionNames": [
+						"Alchera Co",
+						"HIP 112494 Purple Legal Org",
+						"Karasiri Blue Power Exchange",
+						"Tehuevi Labour",
+						"Wendigo Shared",
+						"Wuluujjusi Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 35.003723,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2832497283802,
+					"name": "Thrimpo",
+					"x": -89.9375,
+					"y": -131.6875,
+					"z": 52.75,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"anarchyFactionNames": [
+						"Thrimpo Ring"
+					],
+					"nonAnarchyFactionNames": [
+						"Bureau of Pomotho",
+						"Bureau of Thrimpo Dominion",
+						"HIP 112494 Purple Legal Org",
+						"Independent Thrimpo People's Party",
+						"Tehuevi Labour",
+						"Thrimpo Blue Galactic Corp"
+					],
+					"stations": [
+						{
+							"distance": 322.22867,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 606.36163,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 3382253097698,
+					"name": "Nemasty",
+					"x": -86.09375,
+					"y": -130.3125,
+					"z": 57.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 8,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Nemasty Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Amicale des Compagnons de l'Espace",
+						"Lords of Nemasty",
+						"Nemasty Network",
+						"Nemasty United",
+						"Tehuevi Labour",
+						"Union of Zhang Alliance"
+					],
+					"stations": [
+						{
+							"distance": 23.545315,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 42.162895,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 7266950063553,
+					"name": "Pomotho",
+					"x": -84.40625,
+					"y": -132.90625,
+					"z": 56.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Pomotho Jet Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Bureau of Pomotho",
+						"HIP 111173 Autocracy",
+						"Pomotho Confederation",
+						"Pomotho Crimson Advanced Ind",
+						"Tehuevi Labour",
+						"Wuluujjusi Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 15.646418,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 29.099459,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 9465704883649,
+					"name": "Wuluujjusi",
+					"x": -86.4375,
+					"y": -136,
+					"z": 56.34375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Wuluujjusi Crimson Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"Amicale des Compagnons de l'Espace",
+						"Bureau of Pomotho",
+						"New Wuluujjusi Movement",
+						"Wuluujjusi Blue Galactic Org",
+						"Wuluujjusi Crimson Legal Inc",
+						"Wuluujjusi Republic Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 1458107749090,
+					"name": "Iyakajauja",
+					"x": -85.46875,
+					"y": -144.625,
+					"z": 62.6875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Brothers of Iyakajauja"
+					],
+					"nonAnarchyFactionNames": [
+						"Amicale des Compagnons de l'Espace",
+						"Independent Iyakajauja Resistance",
+						"Independents of Amenhotep",
+						"Iyakajauja Jet Major Corporation",
+						"Traditional Iyakajauja Law Party"
+					],
+					"stations": [
+						{
+							"distance": 30.959225,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 54.766457,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 2868903552449,
+					"name": "Amenhotep",
+					"x": -78.75,
+					"y": -141.90625,
+					"z": 61.78125,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Amenhotep Gold State Inc",
+						"Independents of Amenhotep",
+						"Leaders of Amenhotep",
+						"Skat Patron's Principles",
+						"The Emporium"
+					],
+					"stations": [
+						{
+							"distance": 5.870827,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 8.32836,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1183229842146,
+				"name": "HIP 111173",
+				"x": -85.53125,
+				"y": -137.625,
+				"z": 59.125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 12,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"HIP 111173 Pirates"
+				],
+				"nonAnarchyFactionNames": [
+					"Amicale des Compagnons de l'Espace",
+					"Federal Expeditionary Corps",
+					"HIP 111173 Autocracy",
+					"HIP 111173 Crimson Dynamic Ltd",
+					"HIP 111173 Revolutionary Party"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 31.333334,
+			"anarchyFactionName": "Ehlanda Blue Posse",
+			"systemName": "Ehlanda",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 31,
+			"sourcingSystems": 6,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 6131367678690,
+					"name": "Aeduwona",
+					"x": 108.3125,
+					"y": -165.84375,
+					"z": 79.5,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Adamantine Union",
+						"Aeduwona Holdings",
+						"Autocracy of Iama Kheph",
+						"Ehlanda Citizens of Tradition",
+						"Integrated Aeduwona",
+						"Maiki Imperial Society",
+						"New Aeduwona Justice Party"
+					],
+					"stations": [
+						{
+							"distance": 718.1961,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 920.26746,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 5856489771746,
+					"name": "Iama Kheph",
+					"x": 111.28125,
+					"y": -168.71875,
+					"z": 79.78125,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Autocracy of Iama Kheph",
+						"Defence Force of Iama Kheph",
+						"HIP 1572 Empire Pact",
+						"Iama Kheph Fortune Inc",
+						"Iama Kheph Galactic PLC",
+						"New Aeduwona Justice Party",
+						"Revolutionary Iama Kheph Future"
+					],
+					"stations": []
+				},
+				{
+					"id": 2931088656755,
+					"name": "Dounthiassi",
+					"x": 107.59375,
+					"y": -156,
+					"z": 78.625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Dounthiassi Blue Organisation"
+					],
+					"nonAnarchyFactionNames": [
+						"CD-70 19 Advanced Co",
+						"Dounthiassi Corp.",
+						"Dounthiassi Imperial Society",
+						"Dounthiassi Silver Natural Org",
+						"Dounthiassi Values Party",
+						"United HIP 118062 Law Party"
+					],
+					"stations": [
+						{
+							"distance": 62.674877,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 83.07125,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 104.02066,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1900296505715,
+					"name": "Lambda-1 Tucanae",
+					"x": 116.65625,
+					"y": -153.15625,
+					"z": 74.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 1,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Raiders of Lambda-1 Tucanae"
+					],
+					"nonAnarchyFactionNames": [
+						"Ehlanda Citizens of Tradition",
+						"Lambda-1 Tucanae Citizen's Party",
+						"Lambda-1 Tucanae Industry",
+						"Lambda-1 Tucanae Organisation",
+						"Lambda-1 Tucanae Progressive Party",
+						"Purungurawn Purple Dynamic Comms",
+						"Twin Stars Industries"
+					],
+					"stations": [
+						{
+							"distance": 256.53067,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 399.6962,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 601.0754,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 858.5096,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2871587841481,
+					"name": "Purungurawn",
+					"x": 115.625,
+					"y": -152.875,
+					"z": 75.375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Purungurawn Purple Society"
+					],
+					"nonAnarchyFactionNames": [
+						"CD-70 19 Advanced Co",
+						"Ehlanda Citizens of Tradition",
+						"League of Purungurawn Liberty Party",
+						"New Purungurawn Unionists",
+						"Prismatic Imperium",
+						"Purungurawn Purple Dynamic Comms"
+					],
+					"stations": []
+				},
+				{
+					"id": 9468657608129,
+					"name": "Hernovacle",
+					"x": 119.875,
+					"y": -153,
+					"z": 72.65625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Drug Empire of Hernovacle"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 7142 Guardians of Tradition",
+						"Hernovacle Crimson Galactic Ltd",
+						"Hernovacle Stakeholders",
+						"Lambda-1 Tucanae Citizen's Party",
+						"Purungurawn Purple Dynamic Comms",
+						"Sif League"
+					],
+					"stations": [
+						{
+							"distance": 357.71573,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 672564585929,
+				"name": "Ehlanda",
+				"x": 115.15625,
+				"y": -160.8125,
+				"z": 75.90625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Ehlanda Blue Posse"
+				],
+				"nonAnarchyFactionNames": [
+					"Ehlanda Citizens of Tradition",
+					"Ehlanda Corporation",
+					"Green Party of Ehlanda",
+					"Imperial Space Security Force of Ehlanda",
+					"Purungurawn Purple Dynamic Comms",
+					"Traditional Ehlanda Regulatory State"
+				],
+				"stations": [
+					{
+						"distance": 24.161818,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 43.71902,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 76.57923,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 30.815475,
+			"anarchyFactionName": "Svantiochna Drug Empire",
+			"systemName": "Svantiochna",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 29,
+			"sourcingSystems": 8,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 669612582289,
+					"name": "Inovit",
+					"x": -103.0625,
+					"y": 76.15625,
+					"z": -61.09375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Inovit Crimson Posse"
+					],
+					"nonAnarchyFactionNames": [
+						"Aristocrats of Inovit",
+						"Asgar General Solutions",
+						"Co-operative of Inovit",
+						"HR 4062 Power Incorporated",
+						"Inovit Major Ltd",
+						"Spearhead Charter"
+					],
+					"stations": [
+						{
+							"distance": 275.3979,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 1458107912898,
+					"name": "HIP 64861",
+					"x": -104.25,
+					"y": 78.90625,
+					"z": -65.71875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"HIP 64861 Raiders"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 64861 Freedom Party",
+						"HIP 64861 Gold Creative Comms",
+						"HIP 64861 Justice Party",
+						"Movement for HIP 64861 Future",
+						"Spearhead Charter",
+						"Xelabara Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 34.129314,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 172.26585,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 172.30307,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 301.2033,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 301.25516,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 2690520205667,
+					"name": "Nyorensei",
+					"x": -104.125,
+					"y": 79.8125,
+					"z": -65.625,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Alliance of HIP 65429",
+						"Friends of Nyorensei",
+						"Nyorensei Pro-Independent Group",
+						"Nyorensei Purple Bridge Industry",
+						"Spearhead Charter",
+						"Workers of Aburokul Coalition",
+						"Xelabara Republic Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 903813810531,
+					"name": "HIP 65429",
+					"x": -103.875,
+					"y": 82.375,
+					"z": -64.28125,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Alliance of HIP 65429",
+						"Alpha Dogs Corporation",
+						"Baxbalabia Travel Co",
+						"HR 4062 Power Incorporated",
+						"Spearhead Charter",
+						"Workers of Aburokul Coalition",
+						"Xelabara Republic Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 14191428788,
+					"name": "Gliese 3876",
+					"x": -103.1875,
+					"y": 78.5,
+					"z": -55.9375,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Asgar General Solutions",
+						"Gliese 3876 Collective",
+						"Gliese 3876 Transport Group",
+						"Spearhead Charter",
+						"Xelabara Republic Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 5067659027857,
+					"name": "Manktas",
+					"x": -104.375,
+					"y": 71.71875,
+					"z": -56.03125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 5,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Manktas Brothers"
+					],
+					"nonAnarchyFactionNames": [
+						"Defence Force of Manktas",
+						"Manktas Independents",
+						"Manktas Partners",
+						"New Manktas Nationalists",
+						"Spearhead Charter",
+						"Xelabara Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 8.716103,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 15.70527,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 27.710777,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 49.872158,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						},
+						{
+							"distance": 866.1072,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 7266682283409,
+					"name": "San Yulpa",
+					"x": -100.375,
+					"y": 72.6875,
+					"z": -57.84375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"San Yulpa Mob"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of San Yulpa",
+						"Asgar General Solutions",
+						"HR 4062 Power Incorporated",
+						"San Yulpa Systems",
+						"Spearhead Charter",
+						"Xelabara Republic Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 5067659093393,
+					"name": "Soko Oh",
+					"x": -98,
+					"y": 75.09375,
+					"z": -57.84375,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Aristocrats of Soko Oh",
+						"Asgar General Solutions",
+						"Soko Oh Organisation",
+						"Soko Oh Stakeholders",
+						"Spearhead Charter",
+						"Xelabara Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 5.732521,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 8.952828,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2868635837841,
+				"name": "Svantiochna",
+				"x": -102,
+				"y": 75.5625,
+				"z": -57.21875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 3,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Svantiochna Drug Empire"
+				],
+				"nonAnarchyFactionNames": [
+					"Asgar General Solutions",
+					"Spearhead Charter",
+					"Svantiochna Holdings",
+					"Svantiochna Pro-Independent Bond",
+					"Xelabara Republic Party"
+				],
+				"stations": [
+					{
+						"distance": 14.010057,
+						"type": "Outpost",
+						"primaryEconomy": "Refinery"
+					},
+					{
+						"distance": 24.153101,
+						"type": "Outpost",
+						"primaryEconomy": "Refinery"
+					}
+				]
+			}
+		},
+		{
+			"score": 27.383333,
+			"anarchyFactionName": "Family of HIP 12897",
+			"systemName": "HIP 12897",
+			"sourceSystemAnarchyFactionCount": 6,
+			"sourcingFactionsCount": 29,
+			"sourcingSystems": 7,
+			"rings": 5,
+			"metaSurroundingSystems": [
+				{
+					"id": 2450035542371,
+					"name": "Capai",
+					"x": 26.125,
+					"y": -161.09375,
+					"z": -80.125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Capai Gold Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Capai Emperor's Grace",
+						"Capai Fortune Systems",
+						"Capai Revolutionary Party",
+						"Jormungand Empire Group",
+						"Reiensei Patron's Principles"
+					],
+					"stations": []
+				},
+				{
+					"id": 3932210205378,
+					"name": "Saragir",
+					"x": 25.1875,
+					"y": -160.46875,
+					"z": -84.09375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Saragir Jet Brotherhood"
+					],
+					"nonAnarchyFactionNames": [
+						"Allied Saragir Conservatives",
+						"Jormungand Empire Group",
+						"Movement for Saragir Union",
+						"New Saragir First",
+						"Saragir Solutions"
+					],
+					"stations": [
+						{
+							"distance": 332.725,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 590.13293,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 4207088112322,
+					"name": "Anotribe",
+					"x": 25.4375,
+					"y": -159.0625,
+					"z": -81.875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Anotribe Purple Mafia"
+					],
+					"nonAnarchyFactionNames": [
+						"Anotribe Resistance",
+						"Anotribe Universal Co",
+						"Jormungand Empire Group",
+						"League of Anotribe Party",
+						"New Anotribe Regulatory State",
+						"Saragir Solutions"
+					],
+					"stations": [
+						{
+							"distance": 60.715405,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 83.39086,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2415675804003,
+					"name": "Aquixing",
+					"x": 30.90625,
+					"y": -153.46875,
+					"z": -83.5625,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Aquixing General Group",
+						"Defence Force of Aquixing",
+						"Galactic Rangers",
+						"Jeirom League",
+						"Jormungand Empire Group",
+						"K9 Corporation",
+						"Vucasto Patrons of Law"
+					],
+					"stations": []
+				},
+				{
+					"id": 2381316065635,
+					"name": "Reiensei",
+					"x": 23.65625,
+					"y": -157.09375,
+					"z": -75.6875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Reiensei Pirates"
+					],
+					"nonAnarchyFactionNames": [
+						"Caripurunma Advanced Group",
+						"Galactic Rangers",
+						"People's Party of Reiensei",
+						"Reiensei Patron's Principles",
+						"Reiensei Solutions",
+						"Reiensei Systems"
+					],
+					"stations": [
+						{
+							"distance": 478.80334,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 717.90283,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 3657332298434,
+					"name": "Mandjirbole",
+					"x": 26.46875,
+					"y": -159.15625,
+					"z": -79.1875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Mandjirbole Purple Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Friends of Mandjirbole",
+						"Galactic Rangers",
+						"Jormungand Empire Group",
+						"Purple Creative Co"
+					],
+					"stations": [
+						{
+							"distance": 142.0608,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2346956327267,
+					"name": "Mezanik",
+					"x": 24.15625,
+					"y": -148.71875,
+					"z": -79.0625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Mezanik Gold Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"Fintan Empire Group",
+						"Galactic Rangers",
+						"Jormungand Empire Group",
+						"Mezanik \u0026 Co",
+						"Mezanik Empire Group",
+						"Mezanik Future"
+					],
+					"stations": [
+						{
+							"distance": 240.6458,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 432.32394,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 577.0657,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 358797415106,
+				"name": "HIP 12897",
+				"x": 25.625,
+				"y": -156.9375,
+				"z": -83.5625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 5,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Family of HIP 12897"
+				],
+				"nonAnarchyFactionNames": [
+					"Fintan Empire Group",
+					"Galactic Rangers",
+					"HIP 12897 Empire Party",
+					"HIP 12897 General Partners",
+					"Jormungand Empire Group"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 26.25,
+			"anarchyFactionName": "Drug Empire of Untuatucate",
+			"systemName": "Untuatucate",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 25,
+			"sourcingSystems": 5,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 5068732048841,
+					"name": "Cotiachis",
+					"x": -8.15625,
+					"y": -164.78125,
+					"z": 75.40625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Posse of Cotiachis"
+					],
+					"nonAnarchyFactionNames": [
+						"Brigae Major Solutions",
+						"Cotiachis Energy \u0026 Co",
+						"New Cotiachis Labour Union",
+						"Official Cotiachis Party",
+						"The Winged Hussars",
+						"Untuatucate Limited"
+					],
+					"stations": []
+				},
+				{
+					"id": 908486120162,
+					"name": "HIP 113812",
+					"x": 0.09375,
+					"y": -163.34375,
+					"z": 75.15625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Mafia of HIP 113812"
+					],
+					"nonAnarchyFactionNames": [
+						"Astra Militarum of Beta Sculptoris",
+						"HIP 113812 Democrats",
+						"HIP 113812 Emperor's Grace",
+						"HIP 113812 Energy Corp.",
+						"HIP 113812 Systems",
+						"Untuatucate Limited"
+					],
+					"stations": []
+				},
+				{
+					"id": 2557753561826,
+					"name": "Ngakwites",
+					"x": 6.8125,
+					"y": -161.5,
+					"z": 73.65625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Ngakwites Jet Posse"
+					],
+					"nonAnarchyFactionNames": [
+						"Bureau of Ngakwites Bureau",
+						"New Quapani Liberty Party",
+						"Ngakwites Empire Consulate",
+						"Ngakwites Galactic Solutions",
+						"Ngakwites General Interstellar",
+						"The Winged Hussars"
+					],
+					"stations": [
+						{
+							"distance": 311.17258,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 459.87,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						},
+						{
+							"distance": 805.752,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 3657265189602,
+					"name": "Quapani",
+					"x": 4.25,
+					"y": -168.53125,
+					"z": 71.03125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"HIP 113812 Emperor's Grace",
+						"Kamitra Empire Pact",
+						"Lords of Kazemlya",
+						"New Quapani Liberty Party",
+						"Quapani Natural Systems",
+						"The Winged Hussars",
+						"Unified Quapani"
+					],
+					"stations": [
+						{
+							"distance": 573.23334,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 3107509375714,
+					"name": "Kamcha",
+					"x": 10.3125,
+					"y": -160.53125,
+					"z": 74.1875,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 7,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Defence Force of Kamcha",
+						"Kamcha Citizens of Tradition",
+						"Kamcha Limited",
+						"Kamcha United \u0026 Co",
+						"Ngakwites Empire Consulate",
+						"Progressive Party of Kamcha",
+						"The Winged Hussars"
+					],
+					"stations": [
+						{
+							"distance": 29.094894,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 39.29335,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 61.250942,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 80.78153,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 106.70845,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 170.95244,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Agriculture"
+						},
+						{
+							"distance": 259.68408,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 748.4006,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 748.8029,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 5306532631266,
+				"name": "Untuatucate",
+				"x": 1.1875,
+				"y": -163.6875,
+				"z": 74.65625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 2,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Drug Empire of Untuatucate"
+				],
+				"nonAnarchyFactionNames": [
+					"HIP 113812 Emperor's Grace",
+					"King Gorgoth's Monarchy",
+					"Ryder's Rangers",
+					"Union of Untuatucate Future",
+					"Untuatucate Limited",
+					"Untuatucate Patron's Principles"
+				],
+				"stations": [
+					{
+						"distance": 33.8169,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 24.466667,
+			"anarchyFactionName": "Formoring Jet Dragons",
+			"systemName": "Formoring",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 24,
+			"sourcingSystems": 5,
+			"rings": 5,
+			"metaSurroundingSystems": [
+				{
+					"id": 5070074029457,
+					"name": "Chuan Shun",
+					"x": 75.65625,
+					"y": -215.15625,
+					"z": -62.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Chuan Shun Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"Chuan Shun Corp.",
+						"HIP 11928 Co",
+						"HIP 13317 Empire League",
+						"Mandill Autocracy",
+						"Shoma Empire Party",
+						"Sith Empire"
+					],
+					"stations": [
+						{
+							"distance": 748.3593,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2870782338449,
+					"name": "Wudji",
+					"x": 73.125,
+					"y": -222.03125,
+					"z": -57.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"anarchyFactionNames": [
+						"Wudji Jet Cartel"
+					],
+					"nonAnarchyFactionNames": [
+						"Ajoku Industries",
+						"Wu Guinagi Crimson Creative Corp",
+						"Wudji Citizens' Forum",
+						"Wudji Union Party",
+						"Wudji United Partners"
+					],
+					"stations": [
+						{
+							"distance": 132.15363,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 187.14621,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 1178725206371,
+					"name": "HIP 11928",
+					"x": 73.34375,
+					"y": -219.3125,
+					"z": -58.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Brothers of HIP 11928"
+					],
+					"nonAnarchyFactionNames": [
+						"Dugnatlehi Party",
+						"HIP 11928 Co",
+						"HIP 11928 Coordinated",
+						"Phantoms of Exile",
+						"Sith Empire",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": []
+				},
+				{
+					"id": 2871050773905,
+					"name": "Etznabal",
+					"x": 75.125,
+					"y": -219.375,
+					"z": -59.375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 7,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Etznabal Silver Boys"
+					],
+					"nonAnarchyFactionNames": [
+						"DeepCore Empire",
+						"Etznabal Blue Comms Organisation",
+						"Etznabal Imperial Society",
+						"Formoring Blue Transport Dev",
+						"Phantoms of Exile",
+						"Union Party of Etznabal"
+					],
+					"stations": [
+						{
+							"distance": 296.7742,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 414.86423,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 515.4103,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5069805594001,
+					"name": "Shoma",
+					"x": 71.8125,
+					"y": -218.28125,
+					"z": -55.78125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"HIP 10973 Life Commodities",
+						"HIP 12907 Natural Industries",
+						"Kpon Jet Major Group",
+						"Shoma Empire Party",
+						"Shoma Universal Commodities",
+						"Unified Shoma",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": [
+						{
+							"distance": 5.252691,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 9.585821,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 7269097285009,
+				"name": "Formoring",
+				"x": 77.21875,
+				"y": -222.3125,
+				"z": -61.28125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 5,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Formoring Jet Dragons"
+				],
+				"nonAnarchyFactionNames": [
+					"Autocracy of Formoring",
+					"Chuan Shun Corp.",
+					"Formoring Blue Transport Dev",
+					"Shoma Empire Party",
+					"Sith Empire",
+					"Union of Formoring Republic Party"
+				],
+				"stations": [
+					{
+						"distance": 251.26953,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 765.72504,
+						"type": "Outpost",
+						"primaryEconomy": "Industrial"
+					}
+				]
+			}
+		},
+		{
+			"score": 24.416666,
+			"anarchyFactionName": "Brothers of HIP 11928",
+			"systemName": "HIP 11928",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 24,
+			"sourcingSystems": 5,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 7269097285009,
+					"name": "Formoring",
+					"x": 77.21875,
+					"y": -222.3125,
+					"z": -61.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 5,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Formoring Jet Dragons"
+					],
+					"nonAnarchyFactionNames": [
+						"Autocracy of Formoring",
+						"Chuan Shun Corp.",
+						"Formoring Blue Transport Dev",
+						"Shoma Empire Party",
+						"Sith Empire",
+						"Union of Formoring Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 251.26953,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 765.72504,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5070074029457,
+					"name": "Chuan Shun",
+					"x": 75.65625,
+					"y": -215.15625,
+					"z": -62.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Chuan Shun Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"Chuan Shun Corp.",
+						"HIP 11928 Co",
+						"HIP 13317 Empire League",
+						"Mandill Autocracy",
+						"Shoma Empire Party",
+						"Sith Empire"
+					],
+					"stations": [
+						{
+							"distance": 748.3593,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2870782338449,
+					"name": "Wudji",
+					"x": 73.125,
+					"y": -222.03125,
+					"z": -57.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"anarchyFactionNames": [
+						"Wudji Jet Cartel"
+					],
+					"nonAnarchyFactionNames": [
+						"Ajoku Industries",
+						"Wu Guinagi Crimson Creative Corp",
+						"Wudji Citizens' Forum",
+						"Wudji Union Party",
+						"Wudji United Partners"
+					],
+					"stations": [
+						{
+							"distance": 132.15363,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 187.14621,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 2871050773905,
+					"name": "Etznabal",
+					"x": 75.125,
+					"y": -219.375,
+					"z": -59.375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 7,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Etznabal Silver Boys"
+					],
+					"nonAnarchyFactionNames": [
+						"DeepCore Empire",
+						"Etznabal Blue Comms Organisation",
+						"Etznabal Imperial Society",
+						"Formoring Blue Transport Dev",
+						"Phantoms of Exile",
+						"Union Party of Etznabal"
+					],
+					"stations": [
+						{
+							"distance": 296.7742,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 414.86423,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 515.4103,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5069805594001,
+					"name": "Shoma",
+					"x": 71.8125,
+					"y": -218.28125,
+					"z": -55.78125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"HIP 10973 Life Commodities",
+						"HIP 12907 Natural Industries",
+						"Kpon Jet Major Group",
+						"Shoma Empire Party",
+						"Shoma Universal Commodities",
+						"Unified Shoma",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": [
+						{
+							"distance": 5.252691,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 9.585821,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1178725206371,
+				"name": "HIP 11928",
+				"x": 73.34375,
+				"y": -219.3125,
+				"z": -58.78125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 4,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Brothers of HIP 11928"
+				],
+				"nonAnarchyFactionNames": [
+					"Dugnatlehi Party",
+					"HIP 11928 Co",
+					"HIP 11928 Coordinated",
+					"Phantoms of Exile",
+					"Sith Empire",
+					"Wu Guinagi Crimson Creative Corp"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 24.333332,
+			"anarchyFactionName": "Bilobor Syndicate",
+			"systemName": "Bilobor",
+			"sourceSystemAnarchyFactionCount": 1,
+			"sourcingFactionsCount": 22,
+			"sourcingSystems": 4,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 5581477679842,
+					"name": "Kapurri",
+					"x": 49.53125,
+					"y": -125.34375,
+					"z": 75.21875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Kapurri Rats"
+					],
+					"nonAnarchyFactionNames": [
+						"Bilobor Corporation",
+						"Kapurri Blue Bridge Company",
+						"Kapurri Emperor's Grace",
+						"Kapurri Empire League",
+						"Kapurri Universal PLC",
+						"Marogee Fortune PLC"
+					],
+					"stations": [
+						{
+							"distance": 92.51348,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 131.01442,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 163.27039,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 5856355586786,
+					"name": "Marogee",
+					"x": 53.78125,
+					"y": -126.96875,
+					"z": 72.21875,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 3,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Agarla Citizens' Forum",
+						"Bureau of Marogee Flag",
+						"Geroer Union",
+						"Guaneponne Co-op",
+						"Marogee Fortune PLC",
+						"Marogee Freedom Party",
+						"Marogee for Equality"
+					],
+					"stations": [
+						{
+							"distance": 26.528809,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 45.94261,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 7268560676289,
+					"name": "Geroer",
+					"x": 54.25,
+					"y": -128.5,
+					"z": 70.25,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Bilobor Corporation",
+						"Brazilian Empire Pilots",
+						"Geroer Blue Advanced Co",
+						"Geroer Blue Bridge \u0026 Co",
+						"Geroer Constitution Party",
+						"Geroer Union",
+						"The Sovereign Justice Collective"
+					],
+					"stations": [
+						{
+							"distance": 498.76947,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 957.8744,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 5031721865954,
+					"name": "Piar",
+					"x": 49.25,
+					"y": -128.6875,
+					"z": 82.03125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 5,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Bilobor Corporation",
+						"Freelancers Alliance",
+						"Geroer Union",
+						"Independents of Piar",
+						"Piar Industries",
+						"Piar Justice Party",
+						"Regulatory State of Piar"
+					],
+					"stations": []
+				}
+			],
+			"metaSystem": {
+				"id": 13865630442953,
+				"name": "Bilobor",
+				"x": 49.375,
+				"y": -129.28125,
+				"z": 77.875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Bilobor Syndicate"
+				],
+				"nonAnarchyFactionNames": [
+					"Bilobor Corporation",
+					"Elite United Worlds",
+					"Freelancers Alliance",
+					"Geroer Union",
+					"HIP 110887 United Company"
+				],
+				"stations": [
+					{
+						"distance": 816.6428,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 24.166666,
+			"anarchyFactionName": "Chuan Shun Camorra",
+			"systemName": "Chuan Shun",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 24,
+			"sourcingSystems": 5,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 7269097285009,
+					"name": "Formoring",
+					"x": 77.21875,
+					"y": -222.3125,
+					"z": -61.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 5,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Formoring Jet Dragons"
+					],
+					"nonAnarchyFactionNames": [
+						"Autocracy of Formoring",
+						"Chuan Shun Corp.",
+						"Formoring Blue Transport Dev",
+						"Shoma Empire Party",
+						"Sith Empire",
+						"Union of Formoring Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 251.26953,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 765.72504,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 2870782338449,
+					"name": "Wudji",
+					"x": 73.125,
+					"y": -222.03125,
+					"z": -57.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"anarchyFactionNames": [
+						"Wudji Jet Cartel"
+					],
+					"nonAnarchyFactionNames": [
+						"Ajoku Industries",
+						"Wu Guinagi Crimson Creative Corp",
+						"Wudji Citizens' Forum",
+						"Wudji Union Party",
+						"Wudji United Partners"
+					],
+					"stations": [
+						{
+							"distance": 132.15363,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 187.14621,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 1178725206371,
+					"name": "HIP 11928",
+					"x": 73.34375,
+					"y": -219.3125,
+					"z": -58.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Brothers of HIP 11928"
+					],
+					"nonAnarchyFactionNames": [
+						"Dugnatlehi Party",
+						"HIP 11928 Co",
+						"HIP 11928 Coordinated",
+						"Phantoms of Exile",
+						"Sith Empire",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": []
+				},
+				{
+					"id": 2871050773905,
+					"name": "Etznabal",
+					"x": 75.125,
+					"y": -219.375,
+					"z": -59.375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 7,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Etznabal Silver Boys"
+					],
+					"nonAnarchyFactionNames": [
+						"DeepCore Empire",
+						"Etznabal Blue Comms Organisation",
+						"Etznabal Imperial Society",
+						"Formoring Blue Transport Dev",
+						"Phantoms of Exile",
+						"Union Party of Etznabal"
+					],
+					"stations": [
+						{
+							"distance": 296.7742,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 414.86423,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 515.4103,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5069805594001,
+					"name": "Shoma",
+					"x": 71.8125,
+					"y": -218.28125,
+					"z": -55.78125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"HIP 10973 Life Commodities",
+						"HIP 12907 Natural Industries",
+						"Kpon Jet Major Group",
+						"Shoma Empire Party",
+						"Shoma Universal Commodities",
+						"Unified Shoma",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": [
+						{
+							"distance": 5.252691,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 9.585821,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 5070074029457,
+				"name": "Chuan Shun",
+				"x": 75.65625,
+				"y": -215.15625,
+				"z": -62.3125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Chuan Shun Camorra"
+				],
+				"nonAnarchyFactionNames": [
+					"Chuan Shun Corp.",
+					"HIP 11928 Co",
+					"HIP 13317 Empire League",
+					"Mandill Autocracy",
+					"Shoma Empire Party",
+					"Sith Empire"
+				],
+				"stations": [
+					{
+						"distance": 748.3593,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 22.857141,
+			"anarchyFactionName": "Etznabal Silver Boys",
+			"systemName": "Etznabal",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 22,
+			"sourcingSystems": 5,
+			"rings": 7,
+			"metaSurroundingSystems": [
+				{
+					"id": 7269097285009,
+					"name": "Formoring",
+					"x": 77.21875,
+					"y": -222.3125,
+					"z": -61.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 5,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Formoring Jet Dragons"
+					],
+					"nonAnarchyFactionNames": [
+						"Autocracy of Formoring",
+						"Chuan Shun Corp.",
+						"Formoring Blue Transport Dev",
+						"Shoma Empire Party",
+						"Sith Empire",
+						"Union of Formoring Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 251.26953,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 765.72504,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5070074029457,
+					"name": "Chuan Shun",
+					"x": 75.65625,
+					"y": -215.15625,
+					"z": -62.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Chuan Shun Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"Chuan Shun Corp.",
+						"HIP 11928 Co",
+						"HIP 13317 Empire League",
+						"Mandill Autocracy",
+						"Shoma Empire Party",
+						"Sith Empire"
+					],
+					"stations": [
+						{
+							"distance": 748.3593,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2870782338449,
+					"name": "Wudji",
+					"x": 73.125,
+					"y": -222.03125,
+					"z": -57.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"anarchyFactionNames": [
+						"Wudji Jet Cartel"
+					],
+					"nonAnarchyFactionNames": [
+						"Ajoku Industries",
+						"Wu Guinagi Crimson Creative Corp",
+						"Wudji Citizens' Forum",
+						"Wudji Union Party",
+						"Wudji United Partners"
+					],
+					"stations": [
+						{
+							"distance": 132.15363,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 187.14621,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 1178725206371,
+					"name": "HIP 11928",
+					"x": 73.34375,
+					"y": -219.3125,
+					"z": -58.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Brothers of HIP 11928"
+					],
+					"nonAnarchyFactionNames": [
+						"Dugnatlehi Party",
+						"HIP 11928 Co",
+						"HIP 11928 Coordinated",
+						"Phantoms of Exile",
+						"Sith Empire",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": []
+				},
+				{
+					"id": 5069805594001,
+					"name": "Shoma",
+					"x": 71.8125,
+					"y": -218.28125,
+					"z": -55.78125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"HIP 10973 Life Commodities",
+						"HIP 12907 Natural Industries",
+						"Kpon Jet Major Group",
+						"Shoma Empire Party",
+						"Shoma Universal Commodities",
+						"Unified Shoma",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": [
+						{
+							"distance": 5.252691,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 9.585821,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2871050773905,
+				"name": "Etznabal",
+				"x": 75.125,
+				"y": -219.375,
+				"z": -59.375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 7,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Etznabal Silver Boys"
+				],
+				"nonAnarchyFactionNames": [
+					"DeepCore Empire",
+					"Etznabal Blue Comms Organisation",
+					"Etznabal Imperial Society",
+					"Formoring Blue Transport Dev",
+					"Phantoms of Exile",
+					"Union Party of Etznabal"
+				],
+				"stations": [
+					{
+						"distance": 296.7742,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 414.86423,
+						"type": "Outpost",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 515.4103,
+						"type": "Outpost",
+						"primaryEconomy": "Industrial"
+					}
+				]
+			}
+		},
+		{
+			"score": 22.833332,
+			"anarchyFactionName": "Wudji Jet Cartel",
+			"systemName": "Wudji",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 22,
+			"sourcingSystems": 5,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 7269097285009,
+					"name": "Formoring",
+					"x": 77.21875,
+					"y": -222.3125,
+					"z": -61.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 5,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Formoring Jet Dragons"
+					],
+					"nonAnarchyFactionNames": [
+						"Autocracy of Formoring",
+						"Chuan Shun Corp.",
+						"Formoring Blue Transport Dev",
+						"Shoma Empire Party",
+						"Sith Empire",
+						"Union of Formoring Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 251.26953,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 765.72504,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5070074029457,
+					"name": "Chuan Shun",
+					"x": 75.65625,
+					"y": -215.15625,
+					"z": -62.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Chuan Shun Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"Chuan Shun Corp.",
+						"HIP 11928 Co",
+						"HIP 13317 Empire League",
+						"Mandill Autocracy",
+						"Shoma Empire Party",
+						"Sith Empire"
+					],
+					"stations": [
+						{
+							"distance": 748.3593,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1178725206371,
+					"name": "HIP 11928",
+					"x": 73.34375,
+					"y": -219.3125,
+					"z": -58.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Brothers of HIP 11928"
+					],
+					"nonAnarchyFactionNames": [
+						"Dugnatlehi Party",
+						"HIP 11928 Co",
+						"HIP 11928 Coordinated",
+						"Phantoms of Exile",
+						"Sith Empire",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": []
+				},
+				{
+					"id": 2871050773905,
+					"name": "Etznabal",
+					"x": 75.125,
+					"y": -219.375,
+					"z": -59.375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 7,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Etznabal Silver Boys"
+					],
+					"nonAnarchyFactionNames": [
+						"DeepCore Empire",
+						"Etznabal Blue Comms Organisation",
+						"Etznabal Imperial Society",
+						"Formoring Blue Transport Dev",
+						"Phantoms of Exile",
+						"Union Party of Etznabal"
+					],
+					"stations": [
+						{
+							"distance": 296.7742,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 414.86423,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 515.4103,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5069805594001,
+					"name": "Shoma",
+					"x": 71.8125,
+					"y": -218.28125,
+					"z": -55.78125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"HIP 10973 Life Commodities",
+						"HIP 12907 Natural Industries",
+						"Kpon Jet Major Group",
+						"Shoma Empire Party",
+						"Shoma Universal Commodities",
+						"Unified Shoma",
+						"Wu Guinagi Crimson Creative Corp"
+					],
+					"stations": [
+						{
+							"distance": 5.252691,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 9.585821,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2870782338449,
+				"name": "Wudji",
+				"x": 73.125,
+				"y": -222.03125,
+				"z": -57.46875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 1,
+				"anarchyFactionNames": [
+					"Wudji Jet Cartel"
+				],
+				"nonAnarchyFactionNames": [
+					"Ajoku Industries",
+					"Wu Guinagi Crimson Creative Corp",
+					"Wudji Citizens' Forum",
+					"Wudji Union Party",
+					"Wudji United Partners"
+				],
+				"stations": [
+					{
+						"distance": 132.15363,
+						"type": "Outpost",
+						"primaryEconomy": "Terraforming"
+					},
+					{
+						"distance": 187.14621,
+						"type": "Outpost",
+						"primaryEconomy": "Terraforming"
+					}
+				]
+			}
+		},
+		{
+			"score": 22.833332,
+			"anarchyFactionName": "Hand Gang of HIP 49694",
+			"systemName": "Col 285 Sector YU-N c7-8",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 21,
+			"sourcingSystems": 5,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 1213101787491,
+					"name": "HIP 49694",
+					"x": 109.78125,
+					"y": 119.8125,
+					"z": -62.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Hand Gang of HIP 49694"
+					],
+					"nonAnarchyFactionNames": [
+						"12 Sextantis Co",
+						"4 Sextantis Inc",
+						"Abyssal Legion",
+						"HIP 49694 Allied Network",
+						"HIP 49694 Blue Legal Commodities",
+						"HIP 49694 Independent Mandate",
+						"United HIP 49694 Worker's Party"
+					],
+					"stations": [
+						{
+							"distance": 188.71425,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 4207222559434,
+					"name": "Pendii",
+					"x": 111.15625,
+					"y": 119.90625,
+					"z": -60.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Pendii Crimson Brothers"
+					],
+					"nonAnarchyFactionNames": [
+						"Haren Industry",
+						"Integrated Pendii",
+						"Koljakinna Industry",
+						"MEGALOOT Interstellar Corp.",
+						"Noblemen of Pendii",
+						"Pendii Inc"
+					],
+					"stations": [
+						{
+							"distance": 45.22025,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 82.8869,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2871320257937,
+					"name": "Oronitek",
+					"x": 105.40625,
+					"y": 113.4375,
+					"z": -55.71875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Oronitek Silver Rats"
+					],
+					"nonAnarchyFactionNames": [
+						"12 Sextantis Co",
+						"4 Sextantis Inc",
+						"Koljakinna Industry",
+						"League of Ngulu",
+						"Marquis du Oronitek",
+						"Oronitek Coordinated",
+						"Oronitek Natural \u0026 Co"
+					],
+					"stations": [
+						{
+							"distance": 882.9043,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 949.32605,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 3932344652490,
+					"name": "Ngulu",
+					"x": 107.6875,
+					"y": 118.59375,
+					"z": -59.0625,
+					"nonAnarchyFactionCount": 8,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"12 Sextantis Co",
+						"4 Sextantis Inc",
+						"Abyssal Legion",
+						"Jolanji Company",
+						"Koljakinna Industry",
+						"League of Ngulu",
+						"Ngulu Silver Legal Corp.",
+						"Workers of Tengu League"
+					],
+					"stations": []
+				},
+				{
+					"id": 4482100466378,
+					"name": "Tengu",
+					"x": 113.28125,
+					"y": 113.6875,
+					"z": -55.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Mob of Tengu"
+					],
+					"nonAnarchyFactionNames": [
+						"12 Sextantis Co",
+						"Abyssal Legion",
+						"Haren Industry",
+						"Koljakinna Industry",
+						"Tengu Crimson Vision Corp.",
+						"Workers of Tengu League"
+					],
+					"stations": [
+						{
+							"distance": 37.527103,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 68.60994,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2283077210826,
+				"name": "Col 285 Sector YU-N c7-8",
+				"x": 109.71875,
+				"y": 118.78125,
+				"z": -62.9375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 7,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Hand Gang of HIP 49694"
+				],
+				"nonAnarchyFactionNames": [
+					"12 Sextantis Co",
+					"4 Sextantis Inc",
+					"HIP 49694 Allied Network",
+					"HIP 49694 Blue Legal Commodities",
+					"HIP 49694 Independent Mandate",
+					"Pendii Inc",
+					"United HIP 49694 Worker's Party"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 22.25,
+			"anarchyFactionName": "HIP 42196 Crimson Rats",
+			"systemName": "HIP 42196",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 22,
+			"sourcingSystems": 4,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 2931088689515,
+					"name": "Caeritis",
+					"x": 119.8125,
+					"y": -4.9375,
+					"z": -23.0625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Caeritis Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Caeritis Front",
+						"Caeritis Purple Fortune Ind",
+						"Caeritis Vision Organisation",
+						"Liberals of Caeritis",
+						"Smei Ti Group",
+						"The SMC Clan"
+					],
+					"stations": [
+						{
+							"distance": 693.6565,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 927.7395,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						}
+					]
+				},
+				{
+					"id": 2999808166251,
+					"name": "Mawurunche",
+					"x": 120,
+					"y": -3.53125,
+					"z": -13.90625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Mawurunche Raiders"
+					],
+					"nonAnarchyFactionNames": [
+						"Borann Industries",
+						"Mawurunche Commodities",
+						"Mawurunche Coordinated",
+						"Mawurunche Incorporated",
+						"Project Echo",
+						"Solaris Xeno-Psychology Group"
+					],
+					"stations": [
+						{
+							"distance": 50.54972,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 92.51012,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 9468658066849,
+					"name": "Kumbwe",
+					"x": 121,
+					"y": -7.3125,
+					"z": -14.8125,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Borann Industries",
+						"Confederation of Kumbwe",
+						"Dark Matter Corporation",
+						"Hu Jini Patron's Principles",
+						"Kalvelis Imperial Society",
+						"Kumbwe Crimson Dynamic Partners",
+						"Project Echo"
+					],
+					"stations": [
+						{
+							"distance": 260.36896,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2871588365729,
+					"name": "Ethen",
+					"x": 131.78125,
+					"y": 2.71875,
+					"z": -18.5625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Ethen Purple Partnership"
+					],
+					"nonAnarchyFactionNames": [
+						"Bureau of Ethen Constitution Party",
+						"Caeritis Purple Fortune Ind",
+						"Coalition of HIP 43358",
+						"Ethen Life Holdings",
+						"Ethen Movement",
+						"Ethen Progressive Party"
+					],
+					"stations": [
+						{
+							"distance": 175.95534,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 308.1415,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 308.14865,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1183565484754,
+				"name": "HIP 42196",
+				"x": 125.90625,
+				"y": -0.75,
+				"z": -19.75,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 4,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"HIP 42196 Crimson Rats"
+				],
+				"nonAnarchyFactionNames": [
+					"Confederation of HIP 42196",
+					"HIP 42196 Dynasty",
+					"HIP 42196 Exchange",
+					"Kalvelis Imperial Society",
+					"Project Echo",
+					"Ryders of the Void"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 21.333332,
+			"anarchyFactionName": "Drug Empire of Imango",
+			"systemName": "Imango",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 21,
+			"sourcingSystems": 4,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 7267218957697,
+					"name": "Mirongkomi",
+					"x": -58.78125,
+					"y": -1.46875,
+					"z": -93.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Mirongkomi Silver Mafia"
+					],
+					"nonAnarchyFactionNames": [
+						"Astrobiology Research Cooperative",
+						"Confederation of Acokwa",
+						"Confederation of Mirongkomi",
+						"League of Mirongkomi",
+						"Mirongkomi Netcoms Organisation",
+						"Revolutionary Mirongkomi Progressive Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 7505488908994,
+					"name": "Acokwa",
+					"x": -52.59375,
+					"y": -2.90625,
+					"z": -92.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Acokwa Boys"
+					],
+					"nonAnarchyFactionNames": [
+						"Acokwa Electronics Group",
+						"Alliance of Imango",
+						"Confederation of Acokwa",
+						"Ix Purple Comms Corp.",
+						"Leaders of Acokwa",
+						"Ross 342 Jet Vision Co"
+					],
+					"stations": []
+				},
+				{
+					"id": 11665265468801,
+					"name": "Segon",
+					"x": -48.96875,
+					"y": -0.6875,
+					"z": -96,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 8,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Segon Jet Society"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of Imango",
+						"Astrobiology Research Cooperative",
+						"Beasts of Bestia",
+						"Segon Allied Industry",
+						"Segon Exchange",
+						"Segon Liberty Party"
+					],
+					"stations": [
+						{
+							"distance": 28.20606,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 900.56714,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 913.78467,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 2869172446593,
+					"name": "Tegidana",
+					"x": -55.03125,
+					"y": -5,
+					"z": -85.75,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"160 S.O.A.R.",
+						"Astrobiology Research Cooperative",
+						"Conservatives of Tegidana",
+						"Tegidana Co",
+						"Tegidana Free",
+						"Tegidana Liberty Party",
+						"Unktock Free"
+					],
+					"stations": [
+						{
+							"distance": 14.496525,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 19.33589,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 27.86567,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 13864288724353,
+				"name": "Imango",
+				"x": -50.59375,
+				"y": -2.03125,
+				"z": -93.5625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 3,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Drug Empire of Imango"
+				],
+				"nonAnarchyFactionNames": [
+					"Alliance of Imango",
+					"Hyperion",
+					"Imango Gold Advanced Services",
+					"Official Imango Conservatives",
+					"Segon Allied Industry",
+					"Wolf 186 Inc"
+				],
+				"stations": [
+					{
+						"distance": 693.7783,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Industrial"
+					}
+				]
+			}
+		},
+		{
+			"score": 21.166666,
+			"anarchyFactionName": "Acokwa Boys",
+			"systemName": "Acokwa",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 21,
+			"sourcingSystems": 4,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 7267218957697,
+					"name": "Mirongkomi",
+					"x": -58.78125,
+					"y": -1.46875,
+					"z": -93.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Mirongkomi Silver Mafia"
+					],
+					"nonAnarchyFactionNames": [
+						"Astrobiology Research Cooperative",
+						"Confederation of Acokwa",
+						"Confederation of Mirongkomi",
+						"League of Mirongkomi",
+						"Mirongkomi Netcoms Organisation",
+						"Revolutionary Mirongkomi Progressive Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 13864288724353,
+					"name": "Imango",
+					"x": -50.59375,
+					"y": -2.03125,
+					"z": -93.5625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Drug Empire of Imango"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of Imango",
+						"Hyperion",
+						"Imango Gold Advanced Services",
+						"Official Imango Conservatives",
+						"Segon Allied Industry",
+						"Wolf 186 Inc"
+					],
+					"stations": [
+						{
+							"distance": 693.7783,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 11665265468801,
+					"name": "Segon",
+					"x": -48.96875,
+					"y": -0.6875,
+					"z": -96,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 8,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Segon Jet Society"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of Imango",
+						"Astrobiology Research Cooperative",
+						"Beasts of Bestia",
+						"Segon Allied Industry",
+						"Segon Exchange",
+						"Segon Liberty Party"
+					],
+					"stations": [
+						{
+							"distance": 28.20606,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 900.56714,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 913.78467,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 2869172446593,
+					"name": "Tegidana",
+					"x": -55.03125,
+					"y": -5,
+					"z": -85.75,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"160 S.O.A.R.",
+						"Astrobiology Research Cooperative",
+						"Conservatives of Tegidana",
+						"Tegidana Co",
+						"Tegidana Free",
+						"Tegidana Liberty Party",
+						"Unktock Free"
+					],
+					"stations": [
+						{
+							"distance": 14.496525,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 19.33589,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 27.86567,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 7505488908994,
+				"name": "Acokwa",
+				"x": -52.59375,
+				"y": -2.90625,
+				"z": -92.3125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Acokwa Boys"
+				],
+				"nonAnarchyFactionNames": [
+					"Acokwa Electronics Group",
+					"Alliance of Imango",
+					"Confederation of Acokwa",
+					"Ix Purple Comms Corp.",
+					"Leaders of Acokwa",
+					"Ross 342 Jet Vision Co"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 20.666666,
+			"anarchyFactionName": "Dragons of Korring",
+			"systemName": "Korring",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 21,
+			"sourcingSystems": 4,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 7268293027265,
+					"name": "Yaghan",
+					"x": 24.84375,
+					"y": 99.0625,
+					"z": 55.5625,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 3,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Autocracy of Yaghan",
+						"Fenris Corp",
+						"HIP 67412 Partners",
+						"Wolf 504 Blue Public Holdings",
+						"Yaghan Future",
+						"Yaghan Power Services",
+						"Yaghan Pro-Alliance Pact"
+					],
+					"stations": [
+						{
+							"distance": 23.686895,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 43.218887,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 245.09375,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 3382454620890,
+					"name": "Jambin",
+					"x": 17.71875,
+					"y": 101.15625,
+					"z": 53.625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Jambin Blue Crew"
+					],
+					"nonAnarchyFactionNames": [
+						"Fenris Corp",
+						"Future of Jambin",
+						"Jambin Monarchy",
+						"Jambin Network",
+						"NLTT 33782 Resistance"
+					],
+					"stations": [
+						{
+							"distance": 521.7938,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Tourism"
+						}
+					]
+				},
+				{
+					"id": 5069269771713,
+					"name": "Khakha",
+					"x": 23.6875,
+					"y": 101.65625,
+					"z": 58.6875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Khakha Jet Council"
+					],
+					"nonAnarchyFactionNames": [
+						"Defence Party of Khakha",
+						"HIP 67412 Partners",
+						"Khakha Jet Vision Company",
+						"Khakha Universal Industry",
+						"Partnership of Korring",
+						"Progressive Party of Khakha"
+					],
+					"stations": [
+						{
+							"distance": 28.259804,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 36.998047,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2832698807010,
+					"name": "HIP 67412",
+					"x": 31.0625,
+					"y": 103.9375,
+					"z": 58.125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Drug Empire of HIP 67412"
+					],
+					"nonAnarchyFactionNames": [
+						"Corsarios de Heimdal",
+						"Delta Squadron",
+						"HIP 67412 Order",
+						"HIP 67412 Partners",
+						"Progressive Party of HIP 67031",
+						"Values Party of HIP 67412"
+					],
+					"stations": []
+				}
+			],
+			"metaSystem": {
+				"id": 2870246516161,
+				"name": "Korring",
+				"x": 24.5,
+				"y": 99.5625,
+				"z": 58.71875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Dragons of Korring"
+				],
+				"nonAnarchyFactionNames": [
+					"Fenris Corp",
+					"Korring Central Exchange",
+					"Partnership of Korring",
+					"Progressive Party of Khakha",
+					"Wolf 504 Blue Public Holdings"
+				],
+				"stations": [
+					{
+						"distance": 12.794588,
+						"type": "Outpost",
+						"primaryEconomy": "Refinery"
+					},
+					{
+						"distance": 23.380737,
+						"type": "Outpost",
+						"primaryEconomy": "Refinery"
+					}
+				]
+			}
+		},
+		{
+			"score": 20,
+			"anarchyFactionName": "HIP 113699 Jet Dragons",
+			"systemName": "HIP 113699",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 19,
+			"sourcingSystems": 4,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 2868903683505,
+					"name": "Sadhen",
+					"x": -81.03125,
+					"y": -103.875,
+					"z": 17.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Sadhen Purple Partnership"
+					],
+					"nonAnarchyFactionNames": [
+						"New Sadhen Democrats",
+						"New Sadhen Worker's Party",
+						"Revolutionary HIP 113699 Revolutionary Party",
+						"Sadhen Holdings"
+					],
+					"stations": [
+						{
+							"distance": 472.24045,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 706.96173,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 941.01843,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 11664996705713,
+					"name": "Patocuda",
+					"x": -81.9375,
+					"y": -100.46875,
+					"z": 18.78125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"8th Dragon Squadron",
+						"Democrats of Patocuda",
+						"League of Patocuda Focus",
+						"Patocuda Corp.",
+						"Patocuda League",
+						"Patocuda Legal Corporation",
+						"Uru Federal Interstellar"
+					],
+					"stations": [
+						{
+							"distance": 15.862342,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 29.24852,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 53.584633,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 97.89803,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						}
+					]
+				},
+				{
+					"id": 7266950194609,
+					"name": "Belacajan",
+					"x": -75.59375,
+					"y": -99.71875,
+					"z": 17.8125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Barbera Crew",
+						"Barons of Belacajan",
+						"Belacajan Gold Legal Network",
+						"Belacajan Shared",
+						"Caspi Gold Legal Organisation",
+						"New Sadhen Worker's Party",
+						"Revolutionary HIP 113699 Revolutionary Party"
+					],
+					"stations": [
+						{
+							"distance": 9.899119,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 17.056547,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 13864019961265,
+					"name": "Uru",
+					"x": -77.3125,
+					"y": -99.625,
+					"z": 18.5,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Uru Silver Crew"
+					],
+					"nonAnarchyFactionNames": [
+						"Barbera Crew",
+						"Revolutionary Uru Green Party",
+						"Uru Bureau",
+						"Uru Federal Interstellar",
+						"redback consortium"
+					],
+					"stations": [
+						{
+							"distance": 675.9736,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 947.72003,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 948.61743,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 903813777771,
+				"name": "HIP 113699",
+				"x": -83.375,
+				"y": -97.25,
+				"z": 15.0625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"HIP 113699 Jet Dragons"
+				],
+				"nonAnarchyFactionNames": [
+					"8th Dragon Squadron",
+					"Belacajan Shared",
+					"HIP 113699 Conservatives",
+					"HIP 113699 Jet Life Limited",
+					"Jet Central Industry",
+					"Revolutionary HIP 113699 Revolutionary Party"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 19.916666,
+			"anarchyFactionName": "Anekpenges Crimson Cartel",
+			"systemName": "Anekpenges",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 20,
+			"sourcingSystems": 4,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 5067658896761,
+					"name": "Q'eqchilir",
+					"x": -92.25,
+					"y": 18.53125,
+					"z": -119.1875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Q'eqchilir Blue Syndicate"
+					],
+					"nonAnarchyFactionNames": [
+						"Idini Silver General Corp.",
+						"KNIGHTS OF DEEP SPACE",
+						"New Q'eqchilir Law Party",
+						"Q'eqchilir Crimson Advanced Co",
+						"Q'eqchilir Republic Party",
+						"Q'eqchilir Travel PLC"
+					],
+					"stations": [
+						{
+							"distance": 23.141811,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 9465705407865,
+					"name": "Amantai",
+					"x": -93.1875,
+					"y": 19.84375,
+					"z": -119.40625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Amantai Crimson Mob"
+					],
+					"nonAnarchyFactionNames": [
+						"Amantai Blue Vision Services",
+						"Earls of Hrunda",
+						"Idini Silver General Corp.",
+						"KNIGHTS OF DEEP SPACE",
+						"League of Amantai Liberty Party",
+						"Progressive Party of Amantai"
+					],
+					"stations": [
+						{
+							"distance": 16.618164,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 50.855434,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 67.50228,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 3343355218267,
+					"name": "Belingamal",
+					"x": -89.28125,
+					"y": 19.6875,
+					"z": -118.4375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Belingamal Clan"
+					],
+					"nonAnarchyFactionNames": [
+						"Anekpenges Industries",
+						"Belingamal Legal Systems",
+						"Belingamal Solutions",
+						"Dominion of Belingamal",
+						"Idini Silver General Corp.",
+						"Workers of Belingamal Labour"
+					],
+					"stations": [
+						{
+							"distance": 659.922,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 874.45996,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 3377714956635,
+					"name": "Prajapati",
+					"x": -93.1875,
+					"y": 26.375,
+					"z": -119,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Gliese 3206  Governance",
+						"Idini Silver General Corp.",
+						"KNIGHTS OF DEEP SPACE",
+						"Marquis du Ma'a",
+						"Prajapati Coordinated",
+						"Prajapati Exchange",
+						"Tombstone Mining Company"
+					],
+					"stations": [
+						{
+							"distance": 377.74835,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2868635641209,
+				"name": "Anekpenges",
+				"x": -89.96875,
+				"y": 17.9375,
+				"z": -117.28125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 7,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Anekpenges Crimson Cartel"
+				],
+				"nonAnarchyFactionNames": [
+					"Anekpenges Industries",
+					"Anekpenges One",
+					"Barons of Anekpenges",
+					"HIP 12067 League",
+					"KNIGHTS OF DEEP SPACE",
+					"Prajapati Exchange",
+					"Q'eqchilir Republic Party"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 19.833334,
+			"anarchyFactionName": "Yamur Syndicate",
+			"systemName": "Yamur",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 19,
+			"sourcingSystems": 6,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 2007997878962,
+					"name": "Maruda",
+					"x": -12.125,
+					"y": -13.15625,
+					"z": -184.5625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Maruda Purple Drug Empire"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 24020 Values Party",
+						"Jet Public Industry",
+						"Maruda Central Partners",
+						"SI Terraforming",
+						"Unified Maruda"
+					],
+					"stations": [
+						{
+							"distance": 390.73254,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2282875785906,
+					"name": "Chun Pindit",
+					"x": -11.5625,
+					"y": -15.40625,
+					"z": -181.09375,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Chun Pindit Constitution Party",
+						"Chun Pindit Crimson Electronics",
+						"Defence Force of Chun Pindit",
+						"Jet Public Industry",
+						"SI Terraforming",
+						"Workers of Chun Pindit Democrats"
+					],
+					"stations": []
+				},
+				{
+					"id": 143044641964,
+					"name": "HIP 24019",
+					"x": -10.09375,
+					"y": -20.09375,
+					"z": -177.03125,
+					"nonAnarchyFactionCount": 3,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Jet Public Industry",
+						"Pilot Syndicate 4",
+						"SI Terraforming"
+					],
+					"stations": []
+				},
+				{
+					"id": 147339609260,
+					"name": "HIP 24020",
+					"x": -10.09375,
+					"y": -20.09375,
+					"z": -177.03125,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 14,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Aristocrats of HIP 24020",
+						"HIP 24020 Jet Bridge Group",
+						"HIP 24020 Values Party",
+						"Jet Public Industry",
+						"SI Terraforming"
+					],
+					"stations": [
+						{
+							"distance": 164.23582,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 281.4987,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1458242065074,
+					"name": "Baruga",
+					"x": -17.84375,
+					"y": -15.5625,
+					"z": -176.34375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Baruga Jet Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Barons of Baruga",
+						"Baruga Coordinated",
+						"Baruga Natural Systems",
+						"Crimson Fortune Exchange",
+						"SI Terraforming"
+					],
+					"stations": [
+						{
+							"distance": 70.74428,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 106.40613,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2832631599794,
+					"name": "Valtani",
+					"x": -15.3125,
+					"y": -15.4375,
+					"z": -179.9375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 4,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Valtani Camorra"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 26761 Central Industry",
+						"Integrated Valtani",
+						"SI Terraforming",
+						"Valtani Allied Systems"
+					],
+					"stations": [
+						{
+							"distance": 504.10785,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 700.93176,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1733119972018,
+				"name": "Yamur",
+				"x": -14.625,
+				"y": -18.25,
+				"z": -179.25,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 4,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Yamur Syndicate"
+				],
+				"nonAnarchyFactionNames": [
+					"Jet Public Industry",
+					"SI Terraforming",
+					"Yamur Crimson Comms Corporation",
+					"Yamur League",
+					"Yamur Nobles"
+				],
+				"stations": [
+					{
+						"distance": 32.102264,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 55.171734,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 19.833332,
+			"anarchyFactionName": "HIP 118247 Family",
+			"systemName": "HIP 118247",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 21,
+			"sourcingSystems": 4,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 2869171922345,
+					"name": "Multuring",
+					"x": -59.125,
+					"y": -164.09375,
+					"z": 3.6875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Multuring Jet Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Labour of Multuring",
+						"Multuring Blue Life PLC",
+						"Multuring Focus",
+						"Multuring Guardians of Tradition",
+						"New Horizons Corporation",
+						"Wu Chelki Empire Assembly"
+					],
+					"stations": [
+						{
+							"distance": 8.455748,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 15.022405,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 25.955614,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2072061643115,
+					"name": "HIP 118020",
+					"x": -62.75,
+					"y": -157.4375,
+					"z": 4.625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 118020 Crimson Raiders"
+					],
+					"nonAnarchyFactionNames": [
+						"Citizen Party of HIP 118020",
+						"Dhak Union Party",
+						"HIP 118020 Citizens of Tradition",
+						"HIP 118020 Co",
+						"HIP 118020 Ltd",
+						"New Horizons Corporation"
+					],
+					"stations": []
+				},
+				{
+					"id": 9466241689001,
+					"name": "Aranner",
+					"x": -52.75,
+					"y": -157.59375,
+					"z": 1.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Aranner Organisation"
+					],
+					"nonAnarchyFactionNames": [
+						"Aranner PLC",
+						"Aranner Partners",
+						"Aranner Stakeholders",
+						"Aranner aristocrats",
+						"HIP 117427 Empire Group",
+						"Imperial Stellar Combine"
+					],
+					"stations": [
+						{
+							"distance": 56.148956,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 83.70235,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 908419011282,
+					"name": "HIP 117911",
+					"x": -55.8125,
+					"y": -163.34375,
+					"z": 10.65625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 117911 Jet Partnership"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 117911 Guardians",
+						"HIP 117911 Organisation",
+						"HIP 117911 PLC",
+						"HIP 117911 People's Party",
+						"New Horizons Corporation",
+						"Wu Chelki Empire Assembly"
+					],
+					"stations": [
+						{
+							"distance": 26.589212,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 264.55847,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1591025305963,
+				"name": "HIP 118247",
+				"x": -56.6875,
+				"y": -162.03125,
+				"z": 6.53125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 3,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"HIP 118247 Family"
+				],
+				"nonAnarchyFactionNames": [
+					"Aranner aristocrats",
+					"Earls of HIP 118247",
+					"HIP 117427 Empire Group",
+					"HIP 118247 Allied Solutions",
+					"HIP 118247 Co-operative",
+					"New Horizons Corporation"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 19.633333,
+			"anarchyFactionName": "Valtani Camorra",
+			"systemName": "Valtani",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 19,
+			"sourcingSystems": 6,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 2007997878962,
+					"name": "Maruda",
+					"x": -12.125,
+					"y": -13.15625,
+					"z": -184.5625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Maruda Purple Drug Empire"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 24020 Values Party",
+						"Jet Public Industry",
+						"Maruda Central Partners",
+						"SI Terraforming",
+						"Unified Maruda"
+					],
+					"stations": [
+						{
+							"distance": 390.73254,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2282875785906,
+					"name": "Chun Pindit",
+					"x": -11.5625,
+					"y": -15.40625,
+					"z": -181.09375,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Chun Pindit Constitution Party",
+						"Chun Pindit Crimson Electronics",
+						"Defence Force of Chun Pindit",
+						"Jet Public Industry",
+						"SI Terraforming",
+						"Workers of Chun Pindit Democrats"
+					],
+					"stations": []
+				},
+				{
+					"id": 143044641964,
+					"name": "HIP 24019",
+					"x": -10.09375,
+					"y": -20.09375,
+					"z": -177.03125,
+					"nonAnarchyFactionCount": 3,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Jet Public Industry",
+						"Pilot Syndicate 4",
+						"SI Terraforming"
+					],
+					"stations": []
+				},
+				{
+					"id": 147339609260,
+					"name": "HIP 24020",
+					"x": -10.09375,
+					"y": -20.09375,
+					"z": -177.03125,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 14,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Aristocrats of HIP 24020",
+						"HIP 24020 Jet Bridge Group",
+						"HIP 24020 Values Party",
+						"Jet Public Industry",
+						"SI Terraforming"
+					],
+					"stations": [
+						{
+							"distance": 164.23582,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 281.4987,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1458242065074,
+					"name": "Baruga",
+					"x": -17.84375,
+					"y": -15.5625,
+					"z": -176.34375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Baruga Jet Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Barons of Baruga",
+						"Baruga Coordinated",
+						"Baruga Natural Systems",
+						"Crimson Fortune Exchange",
+						"SI Terraforming"
+					],
+					"stations": [
+						{
+							"distance": 70.74428,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 106.40613,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1733119972018,
+					"name": "Yamur",
+					"x": -14.625,
+					"y": -18.25,
+					"z": -179.25,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Yamur Syndicate"
+					],
+					"nonAnarchyFactionNames": [
+						"Jet Public Industry",
+						"SI Terraforming",
+						"Yamur Crimson Comms Corporation",
+						"Yamur League",
+						"Yamur Nobles"
+					],
+					"stations": [
+						{
+							"distance": 32.102264,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 55.171734,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2832631599794,
+				"name": "Valtani",
+				"x": -15.3125,
+				"y": -15.4375,
+				"z": -179.9375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 4,
+				"ringQty": 2,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Valtani Camorra"
+				],
+				"nonAnarchyFactionNames": [
+					"HIP 26761 Central Industry",
+					"Integrated Valtani",
+					"SI Terraforming",
+					"Valtani Allied Systems"
+				],
+				"stations": [
+					{
+						"distance": 504.10785,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 700.93176,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 19.416668,
+			"anarchyFactionName": "Khakha Jet Council",
+			"systemName": "Khakha",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 19,
+			"sourcingSystems": 4,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 2870246516161,
+					"name": "Korring",
+					"x": 24.5,
+					"y": 99.5625,
+					"z": 58.71875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Dragons of Korring"
+					],
+					"nonAnarchyFactionNames": [
+						"Fenris Corp",
+						"Korring Central Exchange",
+						"Partnership of Korring",
+						"Progressive Party of Khakha",
+						"Wolf 504 Blue Public Holdings"
+					],
+					"stations": [
+						{
+							"distance": 12.794588,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 23.380737,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 7268293027265,
+					"name": "Yaghan",
+					"x": 24.84375,
+					"y": 99.0625,
+					"z": 55.5625,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 3,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Autocracy of Yaghan",
+						"Fenris Corp",
+						"HIP 67412 Partners",
+						"Wolf 504 Blue Public Holdings",
+						"Yaghan Future",
+						"Yaghan Power Services",
+						"Yaghan Pro-Alliance Pact"
+					],
+					"stations": [
+						{
+							"distance": 23.686895,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 43.218887,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 245.09375,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 3382454620890,
+					"name": "Jambin",
+					"x": 17.71875,
+					"y": 101.15625,
+					"z": 53.625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Jambin Blue Crew"
+					],
+					"nonAnarchyFactionNames": [
+						"Fenris Corp",
+						"Future of Jambin",
+						"Jambin Monarchy",
+						"Jambin Network",
+						"NLTT 33782 Resistance"
+					],
+					"stations": [
+						{
+							"distance": 521.7938,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Tourism"
+						}
+					]
+				},
+				{
+					"id": 2832698807010,
+					"name": "HIP 67412",
+					"x": 31.0625,
+					"y": 103.9375,
+					"z": 58.125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Drug Empire of HIP 67412"
+					],
+					"nonAnarchyFactionNames": [
+						"Corsarios de Heimdal",
+						"Delta Squadron",
+						"HIP 67412 Order",
+						"HIP 67412 Partners",
+						"Progressive Party of HIP 67031",
+						"Values Party of HIP 67412"
+					],
+					"stations": []
+				}
+			],
+			"metaSystem": {
+				"id": 5069269771713,
+				"name": "Khakha",
+				"x": 23.6875,
+				"y": 101.65625,
+				"z": 58.6875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 4,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Khakha Jet Council"
+				],
+				"nonAnarchyFactionNames": [
+					"Defence Party of Khakha",
+					"HIP 67412 Partners",
+					"Khakha Jet Vision Company",
+					"Khakha Universal Industry",
+					"Partnership of Korring",
+					"Progressive Party of Khakha"
+				],
+				"stations": [
+					{
+						"distance": 28.259804,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 36.998047,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 19.25,
+			"anarchyFactionName": "Chakaia Blue Syndicate",
+			"systemName": "Chakaia",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 17,
+			"sourcingSystems": 4,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 9464900232625,
+					"name": "Manji",
+					"x": -161.5,
+					"y": 66.84375,
+					"z": 25.15625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Manji Gold Mafia"
+					],
+					"nonAnarchyFactionNames": [
+						"Allied Manji Autocracy",
+						"Global Defense Initiative",
+						"Manji Jet Transport Holdings",
+						"Natural Manji Movement",
+						"Union of Non-Aggressive Pilots",
+						"Values Party of Manji"
+					],
+					"stations": [
+						{
+							"distance": 8.992809,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 16.232254,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 29.251396,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 5066853721521,
+					"name": "Col 285 Sector BT-V b17-2",
+					"x": -157.84375,
+					"y": 59.21875,
+					"z": 31.0625,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Jirani Company",
+						"Jirani Independents",
+						"Movement for HIP 93108 Resistance",
+						"Natural Oduduni Law Party",
+						"Union of Biela Resistance",
+						"Union of Non-Aggressive Pilots",
+						"Values Party of Manji"
+					],
+					"stations": []
+				},
+				{
+					"id": 7265876977073,
+					"name": "Jirani",
+					"x": -155.5625,
+					"y": 62.03125,
+					"z": 32.25,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Jirani Jet Brothers"
+					],
+					"nonAnarchyFactionNames": [
+						"Allied Jirani League",
+						"Jirani Company",
+						"Jirani Independents",
+						"Kaurareg Silver Public Corp",
+						"Natural Oduduni Law Party",
+						"Union of Non-Aggressive Pilots"
+					],
+					"stations": [
+						{
+							"distance": 25.370153,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 32.42701,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 47.64089,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2007729509082,
+					"name": "Biela",
+					"x": -153.5,
+					"y": 71.34375,
+					"z": 32.375,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Biela Incorporated",
+						"Biela Travel Incorporated",
+						"League of Biela Focus",
+						"Natural Biela First",
+						"Union of Biela Resistance",
+						"Union of Non-Aggressive Pilots"
+					],
+					"stations": [
+						{
+							"distance": 388.19287,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 551.77826,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 729.38226,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 668807210417,
+				"name": "Chakaia",
+				"x": -154.96875,
+				"y": 68.375,
+				"z": 28.375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 1,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Chakaia Blue Syndicate"
+				],
+				"nonAnarchyFactionNames": [
+					"Bureau of Chakaia Constitution Party",
+					"Chakaia Jet Legal Holdings",
+					"Purple United Solutions",
+					"Revolutionary Chakaia Worker's Party",
+					"Union of Non-Aggressive Pilots"
+				],
+				"stations": [
+					{
+						"distance": 764.51135,
+						"type": "Ocellus Starport",
+						"primaryEconomy": "Industrial"
+					}
+				]
+			}
+		},
+		{
+			"score": 19,
+			"anarchyFactionName": "Society of Xerebaye",
+			"systemName": "Xerebaye",
+			"sourceSystemAnarchyFactionCount": 1,
+			"sourcingFactionsCount": 17,
+			"sourcingSystems": 3,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 3657466712786,
+					"name": "Bhaguthians",
+					"x": 110.375,
+					"y": 87.5,
+					"z": 9.09375,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 3,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Bhaguthians Partnership",
+						"Dark Enterprise",
+						"HIP 53509 Partners",
+						"Kaurawalaga League",
+						"League of Gliese 2084",
+						"Paiyati Partnership",
+						"Xerebaye Organisation"
+					],
+					"stations": [
+						{
+							"distance": 847.7547,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1281821264235,
+					"name": "13 Lambda Crateris",
+					"x": 107.40625,
+					"y": 88.71875,
+					"z": 12.125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"13 Lambda Crateris Syndicate"
+					],
+					"nonAnarchyFactionNames": [
+						"13 Lambda Crateris Corp.",
+						"13 Lambda Crateris Law Party",
+						"Bastae State \u0026 Co",
+						"HIP 53206 Silver Vision Inc",
+						"Independent Pilot's Guild",
+						"Liberals of 13 Lambda Crateris"
+					],
+					"stations": [
+						{
+							"distance": 333.48947,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 466.99188,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 571.9921,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 5070343447985,
+					"name": "Hedete",
+					"x": 107.28125,
+					"y": 87.6875,
+					"z": 15.9375,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 1,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Barku Incorporated",
+						"Bhaguthians Partnership",
+						"Dark Enterprise",
+						"Earls of Hedete",
+						"Hedete Crimson Comms Ltd",
+						"Hedete allied",
+						"Liberals of 13 Lambda Crateris"
+					],
+					"stations": [
+						{
+							"distance": 10.50658,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 10.554518,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 3932344619730,
+				"name": "Xerebaye",
+				"x": 104.65625,
+				"y": 91,
+				"z": 9.25,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 2,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Society of Xerebaye"
+				],
+				"nonAnarchyFactionNames": [
+					"ACE Photographics",
+					"Bureau of Xerebaye League",
+					"Liberals of 13 Lambda Crateris",
+					"Revolutionary Party of Xerebaye",
+					"Xerebaye Crimson Galactic Org",
+					"Xerebaye Organisation"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 18.166668,
+			"anarchyFactionName": "Kharpulo Brotherhood",
+			"systemName": "Kharpulo",
+			"sourceSystemAnarchyFactionCount": 1,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 9467583866289,
+					"name": "Eseasa",
+					"x": 36.78125,
+					"y": -153.9375,
+					"z": 17.71875,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 1,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Blue Life Group",
+						"Eseasa Emperor's Grace",
+						"Eseasa Empire Pact",
+						"Eseasa Jet Power Company",
+						"Kharpulo Empire Assembly",
+						"Labour of Eseasa",
+						"The Winged Hussars"
+					],
+					"stations": [
+						{
+							"distance": 21.237564,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 21.243593,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 57.617317,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						},
+						{
+							"distance": 199.74496,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 358797415130,
+					"name": "CD-44 224",
+					"x": 38.375,
+					"y": -154.90625,
+					"z": 23.4375,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 3,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"CD-44 224 Advanced Corporation",
+						"CD-44 224 Emperor's Grace",
+						"CD-44 224 Empire Party",
+						"CD-44 224 for Equality",
+						"CSNU",
+						"Chi Suix Emperor's Grace",
+						"The Winged Hussars"
+					],
+					"stations": []
+				},
+				{
+					"id": 7268560610737,
+					"name": "Chi Suix",
+					"x": 36.28125,
+					"y": -154.8125,
+					"z": 24.1875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Chi Suix Blue Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"CSNU",
+						"Chi Suix Allied Company",
+						"Chi Suix Emperor's Grace",
+						"Chi Suix Empire Assembly",
+						"Covert Billionaires",
+						"The Winged Hussars"
+					],
+					"stations": [
+						{
+							"distance": 7.115973,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 11.892191,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 671490844081,
+				"name": "Kharpulo",
+				"x": 41.9375,
+				"y": -155.6875,
+				"z": 16.3125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 2,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Kharpulo Brotherhood"
+				],
+				"nonAnarchyFactionNames": [
+					"Argos",
+					"Chi Suix Emperor's Grace",
+					"Independents of Kharpulo",
+					"Kharpulo Empire Assembly",
+					"Kharpulo Industries",
+					"United German Commanders"
+				],
+				"stations": [
+					{
+						"distance": 8.171594,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Industrial"
+					}
+				]
+			}
+		},
+		{
+			"score": 17.690475,
+			"anarchyFactionName": "Wadjirusi Society",
+			"systemName": "Wadjirusi",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 4,
+			"rings": 7,
+			"metaSurroundingSystems": [
+				{
+					"id": 5070342464969,
+					"name": "Wanano",
+					"x": 97.53125,
+					"y": -224.6875,
+					"z": 78.375,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 1,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Beara Patrons of Law",
+						"HIP 3084 Organisation",
+						"Hania Empire Group",
+						"Osire Fades Purple Major Int",
+						"Sciurus Democracy",
+						"Wadjirusi Blue Power Int",
+						"Wanano Systems"
+					],
+					"stations": [
+						{
+							"distance": 212.88637,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 354108262771,
+					"name": "HIP 3084",
+					"x": 106.5625,
+					"y": -221.375,
+					"z": 76.15625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 4,
+					"ringQty": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Red Flag Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Co-operative of HIP 3084",
+						"HIP 3084 Organisation",
+						"Sciurus Democracy",
+						"The Void Walkers"
+					],
+					"stations": []
+				},
+				{
+					"id": 1733321134818,
+					"name": "Hania",
+					"x": 105.25,
+					"y": -222.59375,
+					"z": 71.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Hania Jet Raiders"
+					],
+					"nonAnarchyFactionNames": [
+						"Hania Empire Group",
+						"Hania Partners",
+						"Movement for Hania Left Party",
+						"Nora Empire Party",
+						"Sciurus Democracy",
+						"The Void Walkers"
+					],
+					"stations": [
+						{
+							"distance": 146.92975,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 373.7243,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 490.74164,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 672295953865,
+					"name": "Wannovik",
+					"x": 99.59375,
+					"y": -222.875,
+					"z": 83.375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 7,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Wannovik Blue Raiders"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 3084 Organisation",
+						"Wanano Systems",
+						"Wannovik Group",
+						"Wannovik Imperial Society",
+						"Wannovik Silver Life Services",
+						"Worker's Party of HIP 293"
+					],
+					"stations": [
+						{
+							"distance": 14.120711,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 25.738287,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 84.14312,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 5070342399433,
+				"name": "Wadjirusi",
+				"x": 100.5625,
+				"y": -225.78125,
+				"z": 77.375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 7,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Wadjirusi Society"
+				],
+				"nonAnarchyFactionNames": [
+					"Beara Patrons of Law",
+					"HIP 3084 Organisation",
+					"Revolutionary Wadjirusi Future",
+					"The Void Walkers",
+					"Wadjirusi Blue Power Int",
+					"Wadjirusi Emperor's Grace"
+				],
+				"stations": [
+					{
+						"distance": 474.0198,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 787.69324,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 800.7448,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 17.5,
+			"anarchyFactionName": "Drug Empire of Alourovices",
+			"systemName": "Alourovices",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 18,
+			"sourcingSystems": 3,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 9469194413513,
+					"name": "Kikab",
+					"x": 163.5,
+					"y": -181.5,
+					"z": 87.40625,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Daibo Empire League",
+						"Empire Technology and Trade Institute",
+						"Heathen Knights",
+						"Imperial Conquistadors",
+						"Kikab Industries",
+						"League of Kikab",
+						"Suzhou Congressional Republic"
+					],
+					"stations": [
+						{
+							"distance": 90.59327,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2872124646857,
+					"name": "Selkadiae",
+					"x": 172.09375,
+					"y": -180.625,
+					"z": 86.15625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Selkadiae Mob"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 10941 Guardians of Tradition",
+						"Independent Selkadiae Revolutionary Party",
+						"Justice Party of Selkadiae",
+						"New Selkadiae Bureau",
+						"Selkadiae Energy Ltd",
+						"Suzhou Congressional Republic"
+					],
+					"stations": [
+						{
+							"distance": 190.23041,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 259.494,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 259.94836,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 7270171157961,
+					"name": "Votadja",
+					"x": 165.6875,
+					"y": -184.90625,
+					"z": 90.28125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Votadja Purple Pirates"
+					],
+					"nonAnarchyFactionNames": [
+						"Alourovices Empire Pact",
+						"Barons Contracting",
+						"Defence Force of Votadja",
+						"Independent Votadja Democrats",
+						"Votadja Front",
+						"Votadja Jet Electronics Exchange"
+					],
+					"stations": [
+						{
+							"distance": 9.660496,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 12.7949,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 5071147902409,
+				"name": "Alourovices",
+				"x": 172.53125,
+				"y": -184.125,
+				"z": 87.03125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Drug Empire of Alourovices"
+				],
+				"nonAnarchyFactionNames": [
+					"Alourovices Allied Company",
+					"Alourovices Empire Pact",
+					"HIP 10941 Guardians of Tradition",
+					"Heathen Knights",
+					"Natural Alourovices Law Party",
+					"People's Alourovices Labour"
+				],
+				"stations": [
+					{
+						"distance": 8.409119,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 11.255806,
+						"type": "Outpost",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 14.43791,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 17.25,
+			"anarchyFactionName": "Votadja Purple Pirates",
+			"systemName": "Votadja",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 9469194413513,
+					"name": "Kikab",
+					"x": 163.5,
+					"y": -181.5,
+					"z": 87.40625,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"nonAnarchyFactionNames": [
+						"Daibo Empire League",
+						"Empire Technology and Trade Institute",
+						"Heathen Knights",
+						"Imperial Conquistadors",
+						"Kikab Industries",
+						"League of Kikab",
+						"Suzhou Congressional Republic"
+					],
+					"stations": [
+						{
+							"distance": 90.59327,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2872124646857,
+					"name": "Selkadiae",
+					"x": 172.09375,
+					"y": -180.625,
+					"z": 86.15625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Selkadiae Mob"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 10941 Guardians of Tradition",
+						"Independent Selkadiae Revolutionary Party",
+						"Justice Party of Selkadiae",
+						"New Selkadiae Bureau",
+						"Selkadiae Energy Ltd",
+						"Suzhou Congressional Republic"
+					],
+					"stations": [
+						{
+							"distance": 190.23041,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 259.494,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 259.94836,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 5071147902409,
+					"name": "Alourovices",
+					"x": 172.53125,
+					"y": -184.125,
+					"z": 87.03125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Drug Empire of Alourovices"
+					],
+					"nonAnarchyFactionNames": [
+						"Alourovices Allied Company",
+						"Alourovices Empire Pact",
+						"HIP 10941 Guardians of Tradition",
+						"Heathen Knights",
+						"Natural Alourovices Law Party",
+						"People's Alourovices Labour"
+					],
+					"stations": [
+						{
+							"distance": 8.409119,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 11.255806,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 14.43791,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 7270171157961,
+				"name": "Votadja",
+				"x": 165.6875,
+				"y": -184.90625,
+				"z": 90.28125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 4,
+				"systemSecurityLevel": 3,
+				"anarchyFactionNames": [
+					"Votadja Purple Pirates"
+				],
+				"nonAnarchyFactionNames": [
+					"Alourovices Empire Pact",
+					"Barons Contracting",
+					"Defence Force of Votadja",
+					"Independent Votadja Democrats",
+					"Votadja Front",
+					"Votadja Jet Electronics Exchange"
+				],
+				"stations": [
+					{
+						"distance": 9.660496,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 12.7949,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 17.166668,
+			"anarchyFactionName": "Gang of Darkinu",
+			"systemName": "Darkinu",
+			"sourceSystemAnarchyFactionCount": 5,
+			"sourcingFactionsCount": 20,
+			"sourcingSystems": 4,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 525856655707,
+					"name": "HIP 11923",
+					"x": -103.28125,
+					"y": -27.21875,
+					"z": -122.71875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 11923 Mob"
+					],
+					"nonAnarchyFactionNames": [
+						"Future of Segovan",
+						"HIP 11923 Blue Transport Org",
+						"Independent HIP 12040 Confederation",
+						"Laniakea",
+						"Nationalists of HIP 11923",
+						"Social HIP 11923 Independents"
+					],
+					"stations": [
+						{
+							"distance": 114.86051,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 797.1726,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 3515153910107,
+					"name": "Olodumanpa",
+					"x": -104.09375,
+					"y": -23.28125,
+					"z": -116.0625,
+					"anarchyFactionCount": 2,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Olodumanpa Blue Dragons",
+						"Olodumanpa Purple Rats"
+					],
+					"nonAnarchyFactionNames": [
+						"Citizen Party of Olodumanpa",
+						"Official Olodumanpa Liberty Party",
+						"Olodumanpa Company",
+						"Partnership of Coco",
+						"Progressive Party of Gullveti"
+					],
+					"stations": [
+						{
+							"distance": 245.45235,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 618.3905,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 908352033466,
+					"name": "BD+48 738",
+					"x": -93.53125,
+					"y": -24.46875,
+					"z": -114.71875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"BD+48 738 Crimson Posse"
+					],
+					"nonAnarchyFactionNames": [
+						"BD+48 738 Crimson Travel Co",
+						"Chias Vega Systems",
+						"Independent BD+48 738 Liberals",
+						"Laniakea",
+						"New BD+48 738 Focus",
+						"Sirius Inc"
+					],
+					"stations": [
+						{
+							"distance": 59.415676,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 440.15762,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1458107847354,
+					"name": "Macushi",
+					"x": -93.5625,
+					"y": -22.90625,
+					"z": -115.4375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Macushi Jet Clan"
+					],
+					"nonAnarchyFactionNames": [
+						"Laniakea",
+						"Law Party of Macushi",
+						"Macushi Corporation",
+						"Macushi Silver General Corp",
+						"Sirius Inc",
+						"United Macushi Democrats"
+					],
+					"stations": [
+						{
+							"distance": 248.00333,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 248.20453,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 358.6297,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 669612254585,
+				"name": "Darkinu",
+				"x": -99.875,
+				"y": -23.75,
+				"z": -120.6875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Gang of Darkinu"
+				],
+				"nonAnarchyFactionNames": [
+					"Darkinu Corporation",
+					"Explorers of Nabudis",
+					"Independent BD+48 738 Liberals",
+					"Laniakea",
+					"Leaders of Darkinu",
+					"Social Darkinu Independents"
+				],
+				"stations": [
+					{
+						"distance": 9.398416,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 17.258905,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 16.833332,
+			"anarchyFactionName": "Lemonites Brothers",
+			"systemName": "Lemonites",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 2008064922314,
+					"name": "Angra",
+					"x": 22.625,
+					"y": -71.5625,
+					"z": -64.90625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Camorra of Angra"
+					],
+					"nonAnarchyFactionNames": [
+						"Angra Advanced Ltd",
+						"Angra Empire League",
+						"Angra Republic Party",
+						"Angra Transport Network",
+						"Sherbo Citizens of Tradition",
+						"The Howlers",
+						"Workers of Galti Future"
+					],
+					"stations": []
+				},
+				{
+					"id": 2282942829258,
+					"name": "Galti",
+					"x": 25.25,
+					"y": -71.25,
+					"z": -61.6875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 2,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Galti Brothers"
+					],
+					"nonAnarchyFactionNames": [
+						"Galaxy Express",
+						"Galti Purple Legal Holdings",
+						"Natural Galti Justice Party",
+						"Partnership of Hu Jung",
+						"Workers of Galti Future"
+					],
+					"stations": [
+						{
+							"distance": 26.463284,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 192.50694,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 195.18079,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 11666338948497,
+					"name": "Kondadora",
+					"x": 25.40625,
+					"y": -75.4375,
+					"z": -57.125,
+					"nonAnarchyFactionCount": 7,
+					"ringQty": 1,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Kondadora First",
+						"Kondadora Gold Central Company",
+						"Namatho Resistance",
+						"Nationalists of Kondadora",
+						"Partnership of Hu Jung",
+						"Revolutionary Kondadora Values Party",
+						"Workers of Galti Future"
+					],
+					"stations": [
+						{
+							"distance": 12.104329,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 21.048288,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 37.163536,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 13865362204049,
+				"name": "Lemonites",
+				"x": 29.6875,
+				"y": -77.28125,
+				"z": -61.03125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 3,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Lemonites Brothers"
+				],
+				"nonAnarchyFactionNames": [
+					"Integrated Lemonites",
+					"Lemonites Empire League",
+					"Lemonites Public Partners",
+					"Partnership of Hu Jung",
+					"People's Balite for Equality",
+					"Wargis Citizens' Forum"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 16.833332,
+			"anarchyFactionName": "HIP 65956 Purple Cartel",
+			"systemName": "HIP 65956",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 5031789171426,
+					"name": "Atuate",
+					"x": 68.5,
+					"y": 99.46875,
+					"z": 73.625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Pirates of Atuate"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of Atuate",
+						"Atuate Dynamic Co",
+						"Delta Squadron",
+						"Hmontabozho Jet Creative Prtnrs",
+						"Kurnai Focus",
+						"New HIP 65956 for Equality"
+					],
+					"stations": []
+				},
+				{
+					"id": 908620567266,
+					"name": "HIP 67055",
+					"x": 63.9375,
+					"y": 98.375,
+					"z": 80.46875,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Delta Squadron",
+						"Democrats of HIP 67055",
+						"HIP 67055 Law Party",
+						"HIP 67055 Ltd",
+						"HIP 67055 State Incorporated",
+						"Official HIP 67055 Nationalists",
+						"Workers of Wintii Confederacy"
+					],
+					"stations": [
+						{
+							"distance": 117.31447,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 295.6242,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 296.42688,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 374.42798,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 9467853153737,
+					"name": "Djamaygani",
+					"x": 65.78125,
+					"y": 95.65625,
+					"z": 82.0625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Djamaygani Gold Organisation"
+					],
+					"nonAnarchyFactionNames": [
+						"Delta Squadron",
+						"Djamaygani Corp.",
+						"Djamaygani Liberty Party",
+						"Djamaygani Logistics",
+						"Wilingura Natural Services",
+						"Workers of Wintii Confederacy"
+					],
+					"stations": [
+						{
+							"distance": 25.155792,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 25.16266,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 69.231636,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 633742660322,
+				"name": "HIP 65956",
+				"x": 73.0625,
+				"y": 101.09375,
+				"z": 78.09375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 3,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"HIP 65956 Purple Cartel"
+				],
+				"nonAnarchyFactionNames": [
+					"Blue Creative Organisation",
+					"Delta Squadron",
+					"HIP 65956 Nationals",
+					"Kurnai Focus",
+					"Myakka Minutemen of Matyar",
+					"New HIP 65956 for Equality"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 16.666666,
+			"anarchyFactionName": "Pirates of Atuate",
+			"systemName": "Atuate",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 2,
+			"metaSurroundingSystems": [
+				{
+					"id": 633742660322,
+					"name": "HIP 65956",
+					"x": 73.0625,
+					"y": 101.09375,
+					"z": 78.09375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 65956 Purple Cartel"
+					],
+					"nonAnarchyFactionNames": [
+						"Blue Creative Organisation",
+						"Delta Squadron",
+						"HIP 65956 Nationals",
+						"Kurnai Focus",
+						"Myakka Minutemen of Matyar",
+						"New HIP 65956 for Equality"
+					],
+					"stations": []
+				},
+				{
+					"id": 908620567266,
+					"name": "HIP 67055",
+					"x": 63.9375,
+					"y": 98.375,
+					"z": 80.46875,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Delta Squadron",
+						"Democrats of HIP 67055",
+						"HIP 67055 Law Party",
+						"HIP 67055 Ltd",
+						"HIP 67055 State Incorporated",
+						"Official HIP 67055 Nationalists",
+						"Workers of Wintii Confederacy"
+					],
+					"stations": [
+						{
+							"distance": 117.31447,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 295.6242,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 296.42688,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 374.42798,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 9467853153737,
+					"name": "Djamaygani",
+					"x": 65.78125,
+					"y": 95.65625,
+					"z": 82.0625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Djamaygani Gold Organisation"
+					],
+					"nonAnarchyFactionNames": [
+						"Delta Squadron",
+						"Djamaygani Corp.",
+						"Djamaygani Liberty Party",
+						"Djamaygani Logistics",
+						"Wilingura Natural Services",
+						"Workers of Wintii Confederacy"
+					],
+					"stations": [
+						{
+							"distance": 25.155792,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 25.16266,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 69.231636,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 5031789171426,
+				"name": "Atuate",
+				"x": 68.5,
+				"y": 99.46875,
+				"z": 73.625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 2,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Pirates of Atuate"
+				],
+				"nonAnarchyFactionNames": [
+					"Alliance of Atuate",
+					"Atuate Dynamic Co",
+					"Delta Squadron",
+					"Hmontabozho Jet Creative Prtnrs",
+					"Kurnai Focus",
+					"New HIP 65956 for Equality"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 16.5,
+			"anarchyFactionName": "Mula Wendes Crimson Brotherhood",
+			"systemName": "Mula Wendes",
+			"sourceSystemAnarchyFactionCount": 5,
+			"sourcingFactionsCount": 19,
+			"sourcingSystems": 4,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 3382454391522,
+					"name": "Dinkas",
+					"x": 19.40625,
+					"y": -163.1875,
+					"z": 77.5625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Dinkas Purple Posse"
+					],
+					"nonAnarchyFactionNames": [
+						"Dinkas Front",
+						"Dinkas Interstellar",
+						"HIP 113839 Empire League",
+						"HIP 116554 Citizen Party",
+						"Justice Party of Dinkas",
+						"The Winged Hussars"
+					],
+					"stations": []
+				},
+				{
+					"id": 633675322082,
+					"name": "HIP 113422",
+					"x": 18.59375,
+					"y": -169.21875,
+					"z": 87.78125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 113422 Silver Brotherhood"
+					],
+					"nonAnarchyFactionNames": [
+						"Aces Wild Aerospace Corporation",
+						"Baganhau Universal Limited",
+						"HIP 113422 Gold Legal PLC",
+						"HIP 113422 Guardians",
+						"Movement for HIP 113422 Liberals",
+						"Windiil Systems"
+					],
+					"stations": [
+						{
+							"distance": 706.58014,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 712.7959,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 4207088112354,
+					"name": "Jang Di",
+					"x": 20.65625,
+					"y": -166.71875,
+					"z": 85.90625,
+					"anarchyFactionCount": 2,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Bonarda Corkscrews",
+						"Jang Di Gold Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Celestial Light Brigade",
+						"Gold Dynamic Organisation",
+						"Jang Di Empire League",
+						"Jang Di Exchange",
+						"Jang Di Republic Party"
+					],
+					"stations": [
+						{
+							"distance": 45.66867,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 79.9623,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 136.57066,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 136.63113,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 242.11821,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						}
+					]
+				},
+				{
+					"id": 3932210205410,
+					"name": "Baganhau",
+					"x": 22.8125,
+					"y": -166.53125,
+					"z": 92.5,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Baganhau Purple Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Aces Wild Aerospace Corporation",
+						"Baganhau Universal Limited",
+						"HIP 113422 Gold Legal PLC",
+						"Noblemen of Baganhau",
+						"Uniting Baganhau"
+					],
+					"stations": [
+						{
+							"distance": 28.400522,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 4481966019298,
+				"name": "Mula Wendes",
+				"x": 15.71875,
+				"y": -164.5,
+				"z": 86.34375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 1,
+				"systemSecurityLevel": 3,
+				"anarchyFactionNames": [
+					"Mula Wendes Crimson Brotherhood"
+				],
+				"nonAnarchyFactionNames": [
+					"Celestial Light Brigade",
+					"Justice Party of Mula Wendes",
+					"Mula Wendes Citizen's Party",
+					"Mula Wendes Industries",
+					"Mula Wendes Universal Corp."
+				],
+				"stations": [
+					{
+						"distance": 44.227505,
+						"type": "Orbis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 75.17228,
+						"type": "Orbis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 127.15263,
+						"type": "Outpost",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 217.2935,
+						"type": "Orbis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 364.2662,
+						"type": "Orbis Starport",
+						"primaryEconomy": "Industrial"
+					},
+					{
+						"distance": 617.4026,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 16.416666,
+			"anarchyFactionName": "Rangda Purple Rats",
+			"systemName": "Rangda",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 15,
+			"sourcingSystems": 3,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 83986551498,
+					"name": "HIP 10325",
+					"x": 89.875,
+					"y": -237.5625,
+					"z": -25.1875,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"HIP 10325 Commodities",
+						"HIP 10325 Democrats",
+						"HIP 10325 Industry",
+						"HyperSpace Reapers",
+						"New HIP 10325 Conservatives",
+						"Party of HIP 10325",
+						"Rangda Fortune Industries"
+					],
+					"stations": [
+						{
+							"distance": 285.96878,
+							"type": "Ocellus Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 419.87122,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 358864458442,
+					"name": "Yukilam",
+					"x": 93.40625,
+					"y": -235.96875,
+					"z": -25.84375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Yukilam Drug Empire"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 10413 PLC",
+						"Rangda Fortune Industries",
+						"Yukilam Confederation",
+						"Yukilam Dominion",
+						"Yukilam Dynasty",
+						"Yukilam Industry"
+					],
+					"stations": [
+						{
+							"distance": 22.324766,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 151.78448,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1728481020267,
+					"name": "HIP 10413",
+					"x": 94.125,
+					"y": -232.125,
+					"z": -20.09375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 10413 Purple Pirates"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 10413 Empire Party",
+						"HIP 10413 PLC",
+						"HIP 10413 Worker's Party",
+						"Rangda Fortune Industries",
+						"Steel Brotherhood",
+						"Yukilam Dominion"
+					],
+					"stations": [
+						{
+							"distance": 245.74072,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 434.25784,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2724913432939,
+				"name": "Rangda",
+				"x": 94.25,
+				"y": -241.0625,
+				"z": -24.03125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 4,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Rangda Purple Rats"
+				],
+				"nonAnarchyFactionNames": [
+					"Rangda Fortune Industries",
+					"Rangda Labour Union",
+					"Rangda League",
+					"Steel Brotherhood",
+					"Yukilam Dominion"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 15.666667,
+			"anarchyFactionName": "Clan of HIP 16538",
+			"systemName": "HIP 16538",
+			"sourceSystemAnarchyFactionCount": 2,
+			"sourcingFactionsCount": 15,
+			"sourcingSystems": 3,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 670685799793,
+					"name": "Gabia",
+					"x": -21.3125,
+					"y": -79.46875,
+					"z": -144.125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Cartel of Gabia"
+					],
+					"nonAnarchyFactionNames": [
+						"Chimagi Corp.",
+						"Close Encounters Corps",
+						"Gabia Blue General Co",
+						"Gabia Movement",
+						"Gabia People's Party",
+						"Union of Gabia Green Party"
+					],
+					"stations": [
+						{
+							"distance": 156.43417,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 271.30753,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 2869709055345,
+					"name": "Yemakinni",
+					"x": -23.15625,
+					"y": -78.78125,
+					"z": -140.03125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Drug Empire of Yemakinni"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of Yemakinni",
+						"Close Encounters Corps",
+						"Revolutionary Party of HIP 16538",
+						"The Argus Initiative",
+						"Yemakinni Domain",
+						"Yemakinni Organisation"
+					],
+					"stations": [
+						{
+							"distance": 482.01712,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 642.06964,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				},
+				{
+					"id": 9466778822001,
+					"name": "Chimagi",
+					"x": -20.4375,
+					"y": -83.78125,
+					"z": -138.9375,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Chimagi Corp.",
+						"Chimagi Noblement",
+						"Chimagi allied",
+						"Close Encounters Corps",
+						"Confederation of HIP 14974",
+						"The Argus Initiative",
+						"Workers of Kol Alliance"
+					],
+					"stations": [
+						{
+							"distance": 634.0865,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						},
+						{
+							"distance": 910.5949,
+							"type": "Outpost",
+							"primaryEconomy": "Refinery"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 285355264347,
+				"name": "HIP 16538",
+				"x": -24.625,
+				"y": -84.0625,
+				"z": -139.34375,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 3,
+				"anarchyFactionNames": [
+					"Clan of HIP 16538"
+				],
+				"nonAnarchyFactionNames": [
+					"Close Encounters Corps",
+					"Confederation of HIP 14974",
+					"Dominion of HIP 16538",
+					"HIP 16538 Galactic Industry",
+					"Revolutionary Party of HIP 16538",
+					"United HIP 16538 Nationalists"
+				],
+				"stations": [
+					{
+						"distance": 757.84106,
+						"type": "Coriolis Starport",
+						"primaryEconomy": "Industrial"
+					}
+				]
+			}
+		},
+		{
+			"score": 15.666666,
+			"anarchyFactionName": "LHS 1612 Purple Council",
+			"systemName": "LHS 1612",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 2869440882065,
+					"name": "NLTT 13249",
+					"x": -38.8125,
+					"y": 9.3125,
+					"z": -60.53125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"NLTT 13249 Silver Pirates"
+					],
+					"nonAnarchyFactionNames": [
+						"Defence Party of NLTT 13249",
+						"Gladutjin for Equality",
+						"NLTT 13249 Limited",
+						"NLTT 13249 PLC",
+						"The Fatherhood",
+						"United NLTT 13249 Resistance"
+					],
+					"stations": [
+						{
+							"distance": 369.53113,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 467.48557,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 703.7735,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						}
+					]
+				},
+				{
+					"id": 1591025338723,
+					"name": "Hlin",
+					"x": -41.28125,
+					"y": 6.4375,
+					"z": -58.3125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 4,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Hlin Purple Clan"
+					],
+					"nonAnarchyFactionNames": [
+						"Arnemil Systems",
+						"Hlin Future",
+						"Hlin Silver Life Partners",
+						"LFT 269 Corp.",
+						"Order of Hlin",
+						"The Fatherhood"
+					],
+					"stations": []
+				},
+				{
+					"id": 11665533904273,
+					"name": "Gladutjin",
+					"x": -40.90625,
+					"y": 11.84375,
+					"z": -55.8125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Gladutjin Gold Posse"
+					],
+					"nonAnarchyFactionNames": [
+						"Gladutjin Conservatives",
+						"Gladutjin Natural Systems",
+						"Gladutjin for Equality",
+						"League of Gladutjin Conservatives",
+						"Order of Enblackenment",
+						"Third Independent Fleet"
+					],
+					"stations": [
+						{
+							"distance": 257.317,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 357.5852,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 485.26056,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2007930770122,
+				"name": "LHS 1612",
+				"x": -40.4375,
+				"y": 7.40625,
+				"z": -54.875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 3,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"LHS 1612 Purple Council"
+				],
+				"nonAnarchyFactionNames": [
+					"Arnemil Systems",
+					"Blood Brothers from Alrai",
+					"Gladutjin for Equality",
+					"LHS 1612 Galactic Ltd",
+					"LHS 1612 Nationals",
+					"LHS 1612 Progressive Party"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 15.416666,
+			"anarchyFactionName": "Hlin Purple Clan",
+			"systemName": "Hlin",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 2869440882065,
+					"name": "NLTT 13249",
+					"x": -38.8125,
+					"y": 9.3125,
+					"z": -60.53125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"NLTT 13249 Silver Pirates"
+					],
+					"nonAnarchyFactionNames": [
+						"Defence Party of NLTT 13249",
+						"Gladutjin for Equality",
+						"NLTT 13249 Limited",
+						"NLTT 13249 PLC",
+						"The Fatherhood",
+						"United NLTT 13249 Resistance"
+					],
+					"stations": [
+						{
+							"distance": 369.53113,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 467.48557,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 703.7735,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						}
+					]
+				},
+				{
+					"id": 2007930770122,
+					"name": "LHS 1612",
+					"x": -40.4375,
+					"y": 7.40625,
+					"z": -54.875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"LHS 1612 Purple Council"
+					],
+					"nonAnarchyFactionNames": [
+						"Arnemil Systems",
+						"Blood Brothers from Alrai",
+						"Gladutjin for Equality",
+						"LHS 1612 Galactic Ltd",
+						"LHS 1612 Nationals",
+						"LHS 1612 Progressive Party"
+					],
+					"stations": []
+				},
+				{
+					"id": 11665533904273,
+					"name": "Gladutjin",
+					"x": -40.90625,
+					"y": 11.84375,
+					"z": -55.8125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Gladutjin Gold Posse"
+					],
+					"nonAnarchyFactionNames": [
+						"Gladutjin Conservatives",
+						"Gladutjin Natural Systems",
+						"Gladutjin for Equality",
+						"League of Gladutjin Conservatives",
+						"Order of Enblackenment",
+						"Third Independent Fleet"
+					],
+					"stations": [
+						{
+							"distance": 257.317,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 357.5852,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						},
+						{
+							"distance": 485.26056,
+							"type": "Outpost",
+							"primaryEconomy": "High Tech"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1591025338723,
+				"name": "Hlin",
+				"x": -41.28125,
+				"y": 6.4375,
+				"z": -58.3125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 4,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Hlin Purple Clan"
+				],
+				"nonAnarchyFactionNames": [
+					"Arnemil Systems",
+					"Hlin Future",
+					"Hlin Silver Life Partners",
+					"LFT 269 Corp.",
+					"Order of Hlin",
+					"The Fatherhood"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 14.5,
+			"anarchyFactionName": "Bafook Hand Gang",
+			"systemName": "Bafook",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 16,
+			"sourcingSystems": 3,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 673101325769,
+					"name": "Kureserians",
+					"x": 159.5,
+					"y": -200.875,
+					"z": 78.53125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Kureserians Silver Raiders"
+					],
+					"nonAnarchyFactionNames": [
+						"13th Vendetta Fleet",
+						"Kureserians Citizen's Party",
+						"Kureserians Gold Netcoms Ltd",
+						"Small Laniakea",
+						"The United Freelancer Flotilla",
+						"Union of Kureserians Liberals"
+					],
+					"stations": [
+						{
+							"distance": 17.263836,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 22.454233,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 30.29993,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 673101325761,
+					"name": "Nerremaia",
+					"x": 169.875,
+					"y": -200.375,
+					"z": 71.09375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Nerremaia Purple Hand Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Aethereal Corporation",
+						"Bafook Future",
+						"Chongloi Organisation",
+						"Nerremaia Commodities",
+						"Nerremaia allied"
+					],
+					"stations": [
+						{
+							"distance": 228.89914,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 237.2337,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1183632429794,
+					"name": "Koeng Pora",
+					"x": 163.5625,
+					"y": -198.375,
+					"z": 74.5625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Koeng Pora Gold Brotherhood"
+					],
+					"nonAnarchyFactionNames": [
+						"Aethereal Corporation",
+						"Empire Technology and Trade Institute",
+						"Koeng Pora Commodities",
+						"Koeng Pora Patron's Principles",
+						"Koeng Pora Worker's Party",
+						"Koing Dynasty"
+					],
+					"stations": [
+						{
+							"distance": 372.9097,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 477.07346,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 2832899871458,
+				"name": "Bafook",
+				"x": 165.3125,
+				"y": -199.84375,
+				"z": 75.25,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Bafook Hand Gang"
+				],
+				"nonAnarchyFactionNames": [
+					"Aethereal Corporation",
+					"Bafook Future",
+					"Bafook Services",
+					"Labour Union of Auso",
+					"Natural Bafook Dominion",
+					"Nerremaia allied"
+				],
+				"stations": [
+					{
+						"distance": 124.22824,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					},
+					{
+						"distance": 193.16978,
+						"type": "Outpost",
+						"primaryEconomy": "Terraforming"
+					}
+				]
+			}
+		},
+		{
+			"score": 14.333333,
+			"anarchyFactionName": "HIP 40942 Purple Society",
+			"systemName": "HIP 40942",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 14,
+			"sourcingSystems": 3,
+			"rings": 3,
+			"metaSurroundingSystems": [
+				{
+					"id": 633675518650,
+					"name": "HIP 40140",
+					"x": 21.0625,
+					"y": 69.125,
+					"z": -114.8125,
+					"nonAnarchyFactionCount": 7,
+					"systemSecurityLevel": 3,
+					"nonAnarchyFactionNames": [
+						"Autocracy of HIP 40140",
+						"HIP 40140 Purple Dynamic Int",
+						"HIP 40140 Systems",
+						"HIP 40140 for Equality",
+						"Natural HIP 40140 Autocracy",
+						"The Sigma Luminary",
+						"United HIP 40942 Values Party"
+					],
+					"stations": [
+						{
+							"distance": 81.16984,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						},
+						{
+							"distance": 141.52869,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 143.30807,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Industrial"
+						}
+					]
+				},
+				{
+					"id": 670954694009,
+					"name": "Kaitsan",
+					"x": 14.40625,
+					"y": 73.875,
+					"z": -109.5625,
+					"anarchyFactionCount": 2,
+					"nonAnarchyFactionCount": 5,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Kaitsan Rats",
+						"Xeno Malice LLC"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 38422 Legal Co",
+						"HIP 43296 Labour",
+						"Kaitsan Commodities",
+						"People's Kaitsan Coalition",
+						"United HIP 40942 Values Party"
+					],
+					"stations": [
+						{
+							"distance": 798.0855,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 800.5053,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 671223195001,
+					"name": "Ngandavaret",
+					"x": 17.625,
+					"y": 75.09375,
+					"z": -109.40625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 8,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Ngandavaret Purple Crew"
+					],
+					"nonAnarchyFactionNames": [
+						"Alliance of HIP 42371",
+						"HIP 43296 Labour",
+						"Ngandavaret Fortune PLC",
+						"Ngandavaret aristocrats",
+						"People's Kaitsan Coalition",
+						"United HIP 40942 Values Party"
+					],
+					"stations": [
+						{
+							"distance": 713.0252,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 731.9488,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 594609719643,
+				"name": "HIP 40942",
+				"x": 16.25,
+				"y": 74.65625,
+				"z": -113.15625,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 3,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"HIP 40942 Purple Society"
+				],
+				"nonAnarchyFactionNames": [
+					"HIP 40942 \u0026 Co",
+					"HIP 43296 Labour",
+					"Ngandavaret Fortune PLC",
+					"United HIP 40942 Values Party",
+					"Walmanglai Co"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 13.133333,
+			"anarchyFactionName": "Quikuruba Blue Crew",
+			"systemName": "Quikuruba",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 13,
+			"sourcingSystems": 3,
+			"rings": 5,
+			"metaSurroundingSystems": [
+				{
+					"id": 3927537846635,
+					"name": "Shillici",
+					"x": 190.125,
+					"y": -177.4375,
+					"z": -2.28125,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"nonAnarchyFactionNames": [
+						"Acani Nationalists",
+						"Gerdia Galactic Systems",
+						"Quikuruba Crimson Federal \u0026 Co",
+						"Sacra Oculus",
+						"Shillici Services",
+						"Stars of Duval"
+					],
+					"stations": [
+						{
+							"distance": 449.1833,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 2621867788651,
+					"name": "Acani",
+					"x": 189.90625,
+					"y": -173.96875,
+					"z": 9.96875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Acani Gold Mafia"
+					],
+					"nonAnarchyFactionNames": [
+						"Acani Interstellar",
+						"Acani Nationalists",
+						"Constitution Party of Acani",
+						"Ingui League",
+						"Sacra Oculus",
+						"Ualarni Solutions"
+					],
+					"stations": [
+						{
+							"distance": 387.69788,
+							"type": "Outpost",
+							"primaryEconomy": "Industrial"
+						},
+						{
+							"distance": 534.34973,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 953.75916,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 359065850578,
+					"name": "Cantzicnal",
+					"x": 192.875,
+					"y": -177.6875,
+					"z": 8.5,
+					"anarchyFactionCount": 2,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 2,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Clan of Cantzicnal",
+						"Pirates of Cantzicnal"
+					],
+					"nonAnarchyFactionNames": [
+						"Acani Nationalists",
+						"Cantzicnal Citizens' Forum",
+						"Cantzicnal Collective",
+						"Cantzicnal Interstellar",
+						"Sacra Oculus"
+					],
+					"stations": [
+						{
+							"distance": 33.660393,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 44.43495,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 633943757522,
+				"name": "Quikuruba",
+				"x": 188.875,
+				"y": -173.5,
+				"z": 2.03125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 3,
+				"ringQty": 5,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"Quikuruba Blue Crew"
+				],
+				"nonAnarchyFactionNames": [
+					"Acani Nationalists",
+					"Quikuruba Crimson Federal \u0026 Co",
+					"Stars of Duval"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 12.166666,
+			"anarchyFactionName": "Konoto Family",
+			"systemName": "Konoto",
+			"sourceSystemAnarchyFactionCount": 4,
+			"sourcingFactionsCount": 14,
+			"sourcingSystems": 3,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 1458443195098,
+					"name": "Kwiambe",
+					"x": 98.25,
+					"y": -249.21875,
+					"z": 19.53125,
+					"anarchyFactionCount": 2,
+					"nonAnarchyFactionCount": 5,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Chaos Armament Empire",
+						"Kwiambe Council"
+					],
+					"nonAnarchyFactionNames": [
+						"Democrats of Kwiambe",
+						"Kaleni Order",
+						"Kwiambe Empire Assembly",
+						"Kwiambe Purple Advanced Org",
+						"People's Party of Kwiambe"
+					],
+					"stations": [
+						{
+							"distance": 118.82497,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 118.90873,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				},
+				{
+					"id": 2008199008986,
+					"name": "Heimanes",
+					"x": 97.78125,
+					"y": -250.375,
+					"z": 23.40625,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 1,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Heimanes Purple Organisation"
+					],
+					"nonAnarchyFactionNames": [
+						"Bureau of Heimanes Justice Party",
+						"Heimanes Industries",
+						"Heimanes Life Solutions",
+						"Kaleni Order",
+						"Kwiambe Empire Assembly",
+						"Left Party of Heimanes"
+					],
+					"stations": [
+						{
+							"distance": 60.991337,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 136.00728,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1384883636587,
+					"name": "HIP 6422",
+					"x": 90.78125,
+					"y": -243.65625,
+					"z": 28.4375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"HIP 6422 Crimson Partnership"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 5796 Patron's Principles",
+						"HIP 6422 Partners",
+						"HIP 6422 Patrons of Law",
+						"HIP 6422 People's Party",
+						"Jamalalam Prison Colony",
+						"Kaleni Order"
+					],
+					"stations": [
+						{
+							"distance": 615.28613,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 615.6569,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						},
+						{
+							"distance": 824.3473,
+							"type": "Outpost",
+							"primaryEconomy": "Terraforming"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 1733321102042,
+				"name": "Konoto",
+				"x": 96.90625,
+				"y": -245.90625,
+				"z": 22.21875,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 6,
+				"ringQty": 1,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Konoto Family"
+				],
+				"nonAnarchyFactionNames": [
+					"Gliese 67.2 Purple Creative Corp",
+					"Konoto Gold Federal Partners",
+					"Konoto Imperial Society",
+					"Konoto Limited",
+					"Konoto Resistance",
+					"Kwiambe Empire Assembly"
+				],
+				"stations": []
+			}
+		},
+		{
+			"score": 11.583333,
+			"anarchyFactionName": "Dongones Jet Family",
+			"systemName": "Dongones",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 11,
+			"sourcingSystems": 3,
+			"rings": 4,
+			"metaSurroundingSystems": [
+				{
+					"id": 1458376151762,
+					"name": "Igal",
+					"x": 79.375,
+					"y": -175.96875,
+					"z": -0.46875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"ringQty": 3,
+					"systemSecurityLevel": 2,
+					"anarchyFactionNames": [
+						"Igal Jet Gang"
+					],
+					"nonAnarchyFactionNames": [
+						"Empire Corsairs",
+						"Igal Electronics Inc",
+						"Igal Empire Assembly",
+						"Igal Netcoms Systems",
+						"Igal Resistance",
+						"Nova Paresa"
+					],
+					"stations": [
+						{
+							"distance": 37.870487,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 65.14588,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 109.244835,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 182.24217,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						},
+						{
+							"distance": 305.7045,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 521.8553,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 1183498244818,
+					"name": "Kemwer",
+					"x": 82.03125,
+					"y": -176.125,
+					"z": -3.09375,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Society of Kemwer"
+					],
+					"nonAnarchyFactionNames": [
+						"Cibola Blue Dynamic Exchange",
+						"Decimus Imperium Lex",
+						"Empire Corsairs",
+						"Kemwer Dominion",
+						"Kemwer Purple Bridge Company",
+						"Nova Paresa"
+					],
+					"stations": []
+				},
+				{
+					"id": 4207155221202,
+					"name": "Hladaragua",
+					"x": 73.4375,
+					"y": -181.28125,
+					"z": 0.21875,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 4,
+					"ringQty": 2,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Hladaragua Purple Rats"
+					],
+					"nonAnarchyFactionNames": [
+						"Decimus Imperium Lex",
+						"Empire Corsairs",
+						"Marquis du Hladaragua",
+						"Nova Paresa"
+					],
+					"stations": []
+				}
+			],
+			"metaSystem": {
+				"id": 1733254058706,
+				"name": "Dongones",
+				"x": 77.78125,
+				"y": -178.78125,
+				"z": 4.28125,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 4,
+				"systemSecurityLevel": 2,
+				"anarchyFactionNames": [
+					"Dongones Jet Family"
+				],
+				"nonAnarchyFactionNames": [
+					"Dongones Empire Assembly",
+					"Dongones Netcoms Ltd",
+					"Empire Corsairs",
+					"Labour Union of Dongones",
+					"Nova Paresa"
+				],
+				"stations": [
+					{
+						"distance": 30.898525,
+						"type": "Outpost",
+						"primaryEconomy": "Extraction"
+					}
+				]
+			}
+		},
+		{
+			"score": 9.666666,
+			"anarchyFactionName": "HIP 11819 Posse",
+			"systemName": "HIP 11819",
+			"sourceSystemAnarchyFactionCount": 3,
+			"sourcingFactionsCount": 11,
+			"sourcingSystems": 3,
+			"rings": 1,
+			"metaSurroundingSystems": [
+				{
+					"id": 7269902788033,
+					"name": "Savan",
+					"x": 148.15625,
+					"y": -158.25,
+					"z": 58.8125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 4,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Savan Crimson Cartel"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 10587 Empire Party",
+						"HIP 11819 Imperial Society",
+						"Savan Gold Comms Corp.",
+						"The Guard of Outer Imperial Colonies"
+					],
+					"stations": [
+						{
+							"distance": 177.916,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				},
+				{
+					"id": 525906970995,
+					"name": "HIP 10786",
+					"x": 147.5,
+					"y": -162.59375,
+					"z": 60.125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 6,
+					"systemSecurityLevel": 3,
+					"anarchyFactionNames": [
+						"Pirates of HIP 10786"
+					],
+					"nonAnarchyFactionNames": [
+						"HIP 10786 Free",
+						"HIP 10786 Imperial Society",
+						"HIP 10786 Purple Fortune PLC",
+						"HIP 10786 Transport Group",
+						"The Guard of Outer Imperial Colonies",
+						"The Imperial Cavalry"
+					],
+					"stations": [
+						{
+							"distance": 107.13712,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 107.288956,
+							"type": "Coriolis Starport",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 143.15152,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 271.48947,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 360.10242,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 451.17703,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						},
+						{
+							"distance": 810.26434,
+							"type": "Orbis Starport",
+							"primaryEconomy": "Agriculture"
+						}
+					]
+				},
+				{
+					"id": 2871856276929,
+					"name": "Bambara",
+					"x": 153.53125,
+					"y": -158.25,
+					"z": 61.03125,
+					"anarchyFactionCount": 1,
+					"nonAnarchyFactionCount": 3,
+					"systemSecurityLevel": 1,
+					"anarchyFactionNames": [
+						"Bambara Gold Drug Empire"
+					],
+					"nonAnarchyFactionNames": [
+						"Bambara Gold Mark Exchange",
+						"Leaders of Bambara",
+						"The Guard of Outer Imperial Colonies"
+					],
+					"stations": [
+						{
+							"distance": 597.27637,
+							"type": "Outpost",
+							"primaryEconomy": "Extraction"
+						}
+					]
+				}
+			],
+			"metaSystem": {
+				"id": 628986186099,
+				"name": "HIP 11819",
+				"x": 148.15625,
+				"y": -159.4375,
+				"z": 55.5,
+				"anarchyFactionCount": 1,
+				"nonAnarchyFactionCount": 5,
+				"ringQty": 1,
+				"systemSecurityLevel": 1,
+				"anarchyFactionNames": [
+					"HIP 11819 Posse"
+				],
+				"nonAnarchyFactionNames": [
+					"HIP 10587 Empire Party",
+					"HIP 10786 Imperial Society",
+					"HIP 11819 Bridge Network",
+					"HIP 11819 Imperial Society",
+					"The Guard of Outer Imperial Colonies"
+				],
+				"stations": []
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		},
+		{
+			"sourceSystemAnarchyFactionCount": 0,
+			"metaSystem": {
+				"stations": null
+			}
+		}
+	]
+}
